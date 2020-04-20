@@ -1210,3 +1210,629 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.20-19.15.35:346][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
 [2020.04.20-19.15.35:475][665]LogSavePackage: Moving '../../../../../../Users/Ariosto/Documents/Unreal Projects/CrossyRoads/Saved/BP_Player_Auto4856DDAE94CD340B6FC35B3A64CA6F784.tmp' to '../../../../../../Users/Ariosto/Documents/Unreal Projects/CrossyRoads/Saved/Autosaves/Game/Blueprints/BP_Player_Auto4.uasset'
 [2020.04.20-19.15.35:480][665]LogFileHelpers: Auto-saving content packages took 0.165
+[2020.04.20-19.39.16:729][199]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2020.04.20-19.39.22:654][392]LogRenderer: Reallocating scene render targets to support 1172x456 Format 10 NumSamples 1 (Frame:1).
+[2020.04.20-19.39.26:146][513]LogSlate: Window 'BP_Player' being destroyed
+[2020.04.20-19.39.26:157][513]LogSlate: Window 'BP_Player' being destroyed
+[2020.04.20-19.39.26:176][513]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.39.33:508][909]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.20-19.39.35:512][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.20-19.39.37:605][ 22]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.20-19.40.21:428][983]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.20-19.40.21:440][983]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.20-19.40.22:137][ 19]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.20-19.40.22:589][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.20-19.40.22:647][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.20-19.40.22:689][ 47]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.40.22:690][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.20-19.40.22:690][ 47]PIE: New page: PIE session: NewMap1 (Apr 20, 2020, 5:40:22 AM)
+[2020.04.20-19.40.22:690][ 47]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.20-19.40.22:698][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007993s)
+[2020.04.20-19.40.22:700][ 47]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.20-19.40.22:700][ 47]LogPlayLevel: PIE: World Init took: (0.002128s)
+[2020.04.20-19.40.22:700][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.010411s)
+[2020.04.20-19.40.22:763][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2020.04.20-19.40.22:784][ 47]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.20-19.40.22:821][ 47]LogInit: FAudioDevice initialized.
+[2020.04.20-19.40.22:835][ 47]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.20-19.40.22:838][ 47]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.20-12.40.22
+[2020.04.20-19.40.22:839][ 47]LogWorld: Bringing up level for play took: 0.003275
+[2020.04.20-19.40.22:840][ 47]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.04.20-19.40.22:846][ 47]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 -0.007
+[2020.04.20-19.40.22:846][ 47]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.40.45:676][679]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.40.45:676][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-19.40.45:676][679]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.20-19.40.45:677][679]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.40.45:693][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.20-19.40.45:693][679]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.40.45:764][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-19.40.45:771][679]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2020.04.20-19.40.45:808][680]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.04.20-19.40.46:331][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.20-19.40.46:537][701]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2020.04.20-19.41.30:989][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.04.20-19.41.30:989][319]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap1' took 0.061
+[2020.04.20-19.41.30:992][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2020.04.20-19.41.30:992][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2020.04.20-19.41.31:103][319]LogSavePackage: Moving '../../../../../../Users/Ariosto/Documents/Unreal Projects/CrossyRoads/Saved/BP_Player_Auto5A4936BFF4CC5AFE5ECD1DE8F4F5F1F99.tmp' to '../../../../../../Users/Ariosto/Documents/Unreal Projects/CrossyRoads/Saved/Autosaves/Game/Blueprints/BP_Player_Auto5.uasset'
+[2020.04.20-19.41.31:106][319]LogFileHelpers: Auto-saving content packages took 0.115
+[2020.04.20-19.41.31:766][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.20-19.42.04:286][655]BlueprintLog: New page: Compile BP_Player
+[2020.04.20-19.42.04:779][655]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2020.04.20-19.42.07:630][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.20-19.42.07:697][771]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.20-19.42.07:748][771]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.42.07:748][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.20-19.42.07:748][771]PIE: New page: PIE session: NewMap1 (Apr 20, 2020, 5:42:07 AM)
+[2020.04.20-19.42.07:748][771]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.20-19.42.07:757][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007704s)
+[2020.04.20-19.42.07:759][771]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.20-19.42.07:760][771]LogPlayLevel: PIE: World Init took: (0.002404s)
+[2020.04.20-19.42.07:760][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.010426s)
+[2020.04.20-19.42.07:829][771]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2020.04.20-19.42.07:851][771]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.20-19.42.07:893][771]LogInit: FAudioDevice initialized.
+[2020.04.20-19.42.07:909][771]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.20-19.42.07:912][771]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.20-12.42.07
+[2020.04.20-19.42.07:913][771]LogWorld: Bringing up level for play took: 0.003210
+[2020.04.20-19.42.07:913][771]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.04.20-19.42.07:919][771]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 1.067
+[2020.04.20-19.42.07:919][771]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.42.29:273][237]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.42.29:274][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-19.42.29:274][237]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.20-19.42.29:274][237]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.42.29:294][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.20-19.42.29:294][237]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.42.29:363][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-19.42.29:370][237]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2020.04.20-19.42.29:404][238]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.04.20-19.42.33:793][411]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.20-19.42.45:106][844]BlueprintLog: New page: Compile BP_Player
+[2020.04.20-19.42.45:579][844]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2020.04.20-19.42.47:724][907]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.20-19.42.47:775][907]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.42.47:775][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.20-19.42.47:775][907]PIE: New page: PIE session: NewMap1 (Apr 20, 2020, 5:42:47 AM)
+[2020.04.20-19.42.47:776][907]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.20-19.42.47:785][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008830s)
+[2020.04.20-19.42.47:786][907]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.20-19.42.47:787][907]LogPlayLevel: PIE: World Init took: (0.002037s)
+[2020.04.20-19.42.47:787][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.011191s)
+[2020.04.20-19.42.47:855][907]LogUObjectHash: Compacting FUObjectHashTables data took   7.89ms
+[2020.04.20-19.42.47:879][907]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.20-19.42.47:918][907]LogInit: FAudioDevice initialized.
+[2020.04.20-19.42.47:931][907]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.20-19.42.47:935][907]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.20-12.42.47
+[2020.04.20-19.42.47:936][907]LogWorld: Bringing up level for play took: 0.003655
+[2020.04.20-19.42.47:936][907]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.04.20-19.42.47:942][907]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 1.09
+[2020.04.20-19.42.47:942][907]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.43.08:228][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.43.08:228][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-19.43.08:229][328]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.20-19.43.08:229][328]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.43.08:244][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.20-19.43.08:245][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.43.08:312][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-19.43.08:319][328]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.04.20-19.43.08:352][329]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.04.20-19.43.15:294][417]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.20-19.43.38:524][303]BlueprintLog: New page: Compile BP_Player
+[2020.04.20-19.43.39:001][303]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2020.04.20-19.43.41:649][367]LogSlate: Window 'BP_Player' being destroyed
+[2020.04.20-19.43.41:660][367]LogSlate: Window 'BP_Player' being destroyed
+[2020.04.20-19.43.41:682][367]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.43.42:291][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.20-19.43.42:408][401]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.20-19.43.42:464][401]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.43.42:464][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.20-19.43.42:464][401]PIE: New page: PIE session: NewMap1 (Apr 20, 2020, 5:43:42 AM)
+[2020.04.20-19.43.42:465][401]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.20-19.43.42:474][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009092s)
+[2020.04.20-19.43.42:476][401]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.20-19.43.42:476][401]LogPlayLevel: PIE: World Init took: (0.002427s)
+[2020.04.20-19.43.42:477][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.012176s)
+[2020.04.20-19.43.42:539][401]LogUObjectHash: Compacting FUObjectHashTables data took   7.33ms
+[2020.04.20-19.43.42:558][401]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.20-19.43.42:593][401]LogInit: FAudioDevice initialized.
+[2020.04.20-19.43.42:607][401]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.20-19.43.42:610][401]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.20-12.43.42
+[2020.04.20-19.43.42:611][401]LogWorld: Bringing up level for play took: 0.002708
+[2020.04.20-19.43.42:611][401]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2020.04.20-19.43.42:616][401]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 -0.236
+[2020.04.20-19.43.42:616][401]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.43.48:736][828]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.43.48:737][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-19.43.48:737][828]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.20-19.43.48:737][828]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.43.48:752][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.20-19.43.48:753][828]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.43.48:821][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-19.43.48:829][828]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.04.20-19.43.48:863][829]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.04.20-19.43.52:484][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.20-19.43.53:445][ 25]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2020.04.20-19.43.56:952][ 97]LogEditorTransaction: Undo Create Pin Link
+[2020.04.20-19.43.57:882][123]LogEditorTransaction: Undo Break Pin Links
+[2020.04.20-19.43.58:472][144]LogEditorTransaction: Undo Move Node
+[2020.04.20-19.44.00:269][218]LogEditorTransaction: Undo Create Pin Link
+[2020.04.20-19.44.00:859][241]LogEditorTransaction: Undo Move Node
+[2020.04.20-19.44.01:792][280]LogEditorTransaction: Undo Move Node
+[2020.04.20-19.45.52:197][981]BlueprintLog: New page: Compile BP_Player
+[2020.04.20-19.45.52:679][981]LogUObjectHash: Compacting FUObjectHashTables data took   8.28ms
+[2020.04.20-19.45.53:252][  0]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.20-19.45.53:301][  0]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.45.53:301][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.20-19.45.53:301][  0]PIE: New page: PIE session: NewMap1 (Apr 20, 2020, 5:45:53 AM)
+[2020.04.20-19.45.53:301][  0]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.20-19.45.53:309][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007872s)
+[2020.04.20-19.45.53:311][  0]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.20-19.45.53:311][  0]LogPlayLevel: PIE: World Init took: (0.001903s)
+[2020.04.20-19.45.53:311][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.010044s)
+[2020.04.20-19.45.53:373][  0]LogUObjectHash: Compacting FUObjectHashTables data took   7.32ms
+[2020.04.20-19.45.53:394][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.20-19.45.53:431][  0]LogInit: FAudioDevice initialized.
+[2020.04.20-19.45.53:447][  0]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.20-19.45.53:452][  0]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.20-12.45.53
+[2020.04.20-19.45.53:453][  0]LogWorld: Bringing up level for play took: 0.004902
+[2020.04.20-19.45.53:454][  0]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.04.20-19.45.53:459][  0]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 0.607
+[2020.04.20-19.45.53:460][  0]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.45.55:812][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.20-19.45.56:794][113]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.45.56:795][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-19.45.56:795][113]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.20-19.45.56:795][113]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.45.56:814][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.20-19.45.56:815][113]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.45.56:886][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-19.45.56:894][113]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2020.04.20-19.45.56:932][114]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.04.20-19.45.58:961][177]LogSlate: Window 'BP_Player' being destroyed
+[2020.04.20-19.45.58:972][177]LogSlate: Window 'BP_Player' being destroyed
+[2020.04.20-19.45.58:973][177]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.45.59:652][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.20-19.45.59:712][209]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.20-19.45.59:754][209]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.45.59:755][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.20-19.45.59:755][209]PIE: New page: PIE session: NewMap1 (Apr 20, 2020, 5:45:59 AM)
+[2020.04.20-19.45.59:756][209]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.20-19.45.59:765][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009071s)
+[2020.04.20-19.45.59:767][209]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.20-19.45.59:768][209]LogPlayLevel: PIE: World Init took: (0.002140s)
+[2020.04.20-19.45.59:768][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.011591s)
+[2020.04.20-19.45.59:832][209]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2020.04.20-19.45.59:853][209]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.20-19.45.59:894][209]LogInit: FAudioDevice initialized.
+[2020.04.20-19.45.59:906][209]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.20-19.45.59:910][209]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.20-12.45.59
+[2020.04.20-19.45.59:911][209]LogWorld: Bringing up level for play took: 0.003589
+[2020.04.20-19.45.59:912][209]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2020.04.20-19.45.59:917][209]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 1.065
+[2020.04.20-19.45.59:917][209]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.46.16:017][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.46.16:017][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-19.46.16:017][358]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.20-19.46.16:018][358]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.46.16:033][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.20-19.46.16:034][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.46.16:104][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-19.46.16:112][358]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2020.04.20-19.46.16:165][359]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.04.20-19.46.20:854][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.20-19.46.21:062][584]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2020.04.20-19.47.08:625][182]BlueprintLog: New page: Compile BP_Player
+[2020.04.20-19.47.09:100][182]LogUObjectHash: Compacting FUObjectHashTables data took   7.38ms
+[2020.04.20-19.47.12:478][284]LogSlate: Window 'BP_Player' being destroyed
+[2020.04.20-19.47.12:493][284]LogSlate: Window 'BP_Player' being destroyed
+[2020.04.20-19.47.12:546][284]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.47.12:996][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.20-19.47.13:077][306]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.20-19.47.13:123][306]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.47.13:123][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.20-19.47.13:123][306]PIE: New page: PIE session: NewMap1 (Apr 20, 2020, 5:47:13 AM)
+[2020.04.20-19.47.13:124][306]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.20-19.47.13:132][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008059s)
+[2020.04.20-19.47.13:134][306]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.20-19.47.13:134][306]LogPlayLevel: PIE: World Init took: (0.002562s)
+[2020.04.20-19.47.13:135][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.010911s)
+[2020.04.20-19.47.13:201][306]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2020.04.20-19.47.13:223][306]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.20-19.47.13:262][306]LogInit: FAudioDevice initialized.
+[2020.04.20-19.47.13:275][306]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.20-19.47.13:278][306]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.20-12.47.13
+[2020.04.20-19.47.13:280][306]LogWorld: Bringing up level for play took: 0.003596
+[2020.04.20-19.47.13:280][306]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2020.04.20-19.47.13:286][306]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 0.434
+[2020.04.20-19.47.13:287][306]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.47.38:375][110]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.47.38:376][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-19.47.38:376][110]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.20-19.47.38:376][110]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.47.38:391][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.20-19.47.38:391][110]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.20-19.47.38:457][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-19.47.38:465][110]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.04.20-19.47.38:495][111]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.04.20-19.52.37:969][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.20-19.52.38:079][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap1" FILE="../../../../../../Users/Ariosto/Documents/Unreal Projects/CrossyRoads/Content/NewMap1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.20-19.52.38:141][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.04.20-19.52.38:627][184]LogSavePackage: Moving '../../../../../../Users/Ariosto/Documents/Unreal Projects/CrossyRoads/Saved/NewMap15AF78D7D492DC33BD8DAA39EAE34F958.tmp' to '../../../../../../Users/Ariosto/Documents/Unreal Projects/CrossyRoads/Content/NewMap1.umap'
+[2020.04.20-19.52.40:222][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.20-19.52.40:424][238]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2020.04.20-19.52.42:804][286]LogSlate: Window 'BP_Player' being destroyed
+[2020.04.20-19.52.42:815][286]LogSlate: Window 'BP_Player' being destroyed
+[2020.04.20-19.52.42:816][286]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.52.43:721][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.20-19.52.44:737][406]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2020.04.20-19.52.46:957][406]LogSlate: Window 'Save Content' being destroyed
+[2020.04.20-19.52.46:981][406]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.20-19.52.47:034][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/Ariosto/Documents/Unreal Projects/CrossyRoads/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2020.04.20-19.52.47:170][406]LogSavePackage: Moving '../../../../../../Users/Ariosto/Documents/Unreal Projects/CrossyRoads/Saved/BP_PlayerD0372A9D4E407D015DEA1E9887C88B8D.tmp' to '../../../../../../Users/Ariosto/Documents/Unreal Projects/CrossyRoads/Content/Blueprints/BP_Player.uasset'
+[2020.04.20-19.52.47:417][406]LogSlate: Window 'CrossyRoads - Unreal Editor' being destroyed
+[2020.04.20-19.52.47:801][407]Cmd: QUIT_EDITOR
+[2020.04.20-19.52.48:635][407]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.20-19.52.48:683][407]LogExit: Preparing to exit.
+[2020.04.20-19.52.49:263][407]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.52.49:267][407]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.52.49:272][407]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.52.49:279][407]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.52.49:284][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.04.20-19.52.49:284][407]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.52.49:289][407]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.52.49:293][407]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.52.49:298][407]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.52.49:382][407]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.04.20-19.52.49:431][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-19.52.49:431][407]LogExit: Editor shut down
+[2020.04.20-19.52.49:433][407]LogExit: Transaction tracking system shut down
+[2020.04.20-19.52.50:128][407]LogExit: Object subsystem successfully closed.
+[2020.04.20-19.52.50:178][407]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.20-19.52.50:289][407]LogModuleManager: Shutting down and abandoning module BlueprintGraph (678)
+[2020.04.20-19.52.50:289][407]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (676)
+[2020.04.20-19.52.50:289][407]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (674)
+[2020.04.20-19.52.50:289][407]LogModuleManager: Shutting down and abandoning module Voice (672)
+[2020.04.20-19.52.50:290][407]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2020.04.20-19.52.50:290][407]LogModuleManager: Shutting down and abandoning module SceneOutliner (668)
+[2020.04.20-19.52.50:290][407]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2020.04.20-19.52.50:295][407]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2020.04.20-19.52.50:295][407]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2020.04.20-19.52.50:296][407]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2020.04.20-19.52.50:297][407]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (658)
+[2020.04.20-19.52.50:297][407]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2020.04.20-19.52.50:298][407]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2020.04.20-19.52.50:298][407]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2020.04.20-19.52.50:299][407]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2020.04.20-19.52.50:301][407]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2020.04.20-19.52.50:301][407]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2020.04.20-19.52.50:301][407]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2020.04.20-19.52.50:301][407]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2020.04.20-19.52.50:302][407]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2020.04.20-19.52.50:302][407]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2020.04.20-19.52.50:302][407]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2020.04.20-19.52.50:303][407]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2020.04.20-19.52.50:303][407]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2020.04.20-19.52.50:303][407]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2020.04.20-19.52.50:303][407]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2020.04.20-19.52.50:304][407]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2020.04.20-19.52.50:304][407]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2020.04.20-19.52.50:307][407]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2020.04.20-19.52.50:307][407]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2020.04.20-19.52.50:308][407]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2020.04.20-19.52.50:308][407]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2020.04.20-19.52.50:308][407]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2020.04.20-19.52.50:309][407]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2020.04.20-19.52.50:309][407]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2020.04.20-19.52.50:309][407]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2020.04.20-19.52.50:309][407]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2020.04.20-19.52.50:310][407]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2020.04.20-19.52.50:311][407]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2020.04.20-19.52.50:311][407]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2020.04.20-19.52.50:311][407]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2020.04.20-19.52.50:311][407]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2020.04.20-19.52.50:311][407]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2020.04.20-19.52.50:311][407]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2020.04.20-19.52.50:311][407]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2020.04.20-19.52.50:311][407]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2020.04.20-19.52.50:311][407]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2020.04.20-19.52.50:311][407]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2020.04.20-19.52.50:311][407]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2020.04.20-19.52.50:311][407]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2020.04.20-19.52.50:311][407]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2020.04.20-19.52.50:311][407]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2020.04.20-19.52.50:311][407]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2020.04.20-19.52.50:311][407]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2020.04.20-19.52.50:312][407]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2020.04.20-19.52.50:312][407]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2020.04.20-19.52.50:312][407]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2020.04.20-19.52.50:313][407]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2020.04.20-19.52.50:315][407]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2020.04.20-19.52.50:316][407]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2020.04.20-19.52.50:317][407]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2020.04.20-19.52.50:317][407]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2020.04.20-19.52.50:317][407]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2020.04.20-19.52.50:317][407]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2020.04.20-19.52.50:317][407]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2020.04.20-19.52.50:317][407]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2020.04.20-19.52.50:698][407]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2020.04.20-19.52.50:698][407]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2020.04.20-19.52.50:698][407]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2020.04.20-19.52.50:698][407]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2020.04.20-19.52.50:698][407]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2020.04.20-19.52.50:699][407]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2020.04.20-19.52.50:699][407]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2020.04.20-19.52.50:701][407]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2020.04.20-19.52.50:702][407]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2020.04.20-19.52.50:702][407]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2020.04.20-19.52.50:702][407]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2020.04.20-19.52.50:702][407]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2020.04.20-19.52.50:703][407]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2020.04.20-19.52.50:703][407]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2020.04.20-19.52.50:703][407]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2020.04.20-19.52.50:703][407]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2020.04.20-19.52.50:704][407]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2020.04.20-19.52.50:704][407]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2020.04.20-19.52.50:704][407]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2020.04.20-19.52.50:705][407]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2020.04.20-19.52.50:705][407]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2020.04.20-19.52.50:705][407]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2020.04.20-19.52.50:706][407]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2020.04.20-19.52.50:751][407]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2020.04.20-19.52.50:751][407]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2020.04.20-19.52.50:752][407]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2020.04.20-19.52.50:753][407]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2020.04.20-19.52.50:753][407]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2020.04.20-19.52.50:753][407]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2020.04.20-19.52.50:754][407]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2020.04.20-19.52.50:755][407]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2020.04.20-19.52.50:755][407]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2020.04.20-19.52.50:755][407]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2020.04.20-19.52.50:756][407]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2020.04.20-19.52.50:776][407]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2020.04.20-19.52.50:777][407]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2020.04.20-19.52.50:777][407]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2020.04.20-19.52.50:777][407]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2020.04.20-19.52.50:777][407]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2020.04.20-19.52.50:778][407]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.04.20-19.52.50:778][407]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.04.20-19.52.50:778][407]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.04.20-19.52.50:782][407]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.04.20-19.52.50:782][407]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.04.20-19.52.50:784][407]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.04.20-19.52.50:785][407]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.04.20-19.52.50:785][407]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.04.20-19.52.50:785][407]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.04.20-19.52.50:785][407]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.04.20-19.52.50:785][407]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.04.20-19.52.50:786][407]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.04.20-19.52.50:786][407]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.04.20-19.52.50:786][407]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.04.20-19.52.50:786][407]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.04.20-19.52.50:786][407]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.04.20-19.52.50:786][407]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.04.20-19.52.50:786][407]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.04.20-19.52.50:786][407]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.04.20-19.52.50:786][407]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2020.04.20-19.52.50:786][407]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2020.04.20-19.52.50:793][407]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2020.04.20-19.52.51:037][407]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2020.04.20-19.52.51:039][407]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2020.04.20-19.52.51:039][407]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2020.04.20-19.52.51:039][407]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2020.04.20-19.52.51:039][407]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2020.04.20-19.52.51:039][407]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2020.04.20-19.52.51:039][407]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2020.04.20-19.52.51:039][407]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2020.04.20-19.52.51:039][407]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2020.04.20-19.52.51:040][407]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2020.04.20-19.52.51:040][407]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2020.04.20-19.52.51:040][407]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2020.04.20-19.52.51:040][407]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2020.04.20-19.52.51:040][407]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2020.04.20-19.52.51:040][407]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2020.04.20-19.52.51:040][407]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.04.20-19.52.51:040][407]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.04.20-19.52.51:041][407]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.04.20-19.52.51:042][407]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.04.20-19.52.51:042][407]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.04.20-19.52.51:042][407]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.04.20-19.52.51:042][407]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.04.20-19.52.51:042][407]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.04.20-19.52.51:043][407]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.04.20-19.52.51:043][407]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.04.20-19.52.51:043][407]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.04.20-19.52.51:043][407]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.04.20-19.52.51:045][407]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.04.20-19.52.51:045][407]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.04.20-19.52.51:045][407]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.04.20-19.52.51:045][407]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.04.20-19.52.51:045][407]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.04.20-19.52.51:045][407]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.04.20-19.52.51:045][407]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.04.20-19.52.51:045][407]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.04.20-19.52.51:045][407]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.04.20-19.52.51:046][407]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.04.20-19.52.51:046][407]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.04.20-19.52.51:047][407]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.04.20-19.52.51:047][407]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.04.20-19.52.51:048][407]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.04.20-19.52.51:050][407]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.04.20-19.52.51:050][407]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.04.20-19.52.51:050][407]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.04.20-19.52.51:050][407]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.04.20-19.52.51:050][407]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.04.20-19.52.51:050][407]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.04.20-19.52.51:051][407]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.04.20-19.52.51:053][407]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.04.20-19.52.51:054][407]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.04.20-19.52.51:054][407]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.04.20-19.52.51:054][407]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.04.20-19.52.51:054][407]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.04.20-19.52.51:054][407]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.04.20-19.52.51:054][407]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.04.20-19.52.51:055][407]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.04.20-19.52.51:055][407]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.04.20-19.52.51:055][407]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.04.20-19.52.51:056][407]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.04.20-19.52.51:056][407]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.04.20-19.52.51:056][407]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.04.20-19.52.51:056][407]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.04.20-19.52.51:056][407]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.04.20-19.52.51:056][407]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.04.20-19.52.51:157][407]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.04.20-19.52.51:258][407]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.04.20-19.52.51:258][407]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.04.20-19.52.51:258][407]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.04.20-19.52.51:258][407]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.04.20-19.52.51:258][407]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.04.20-19.52.51:259][407]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.20-19.52.51:259][407]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.04.20-19.52.51:260][407]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.04.20-19.52.51:260][407]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.04.20-19.52.51:260][407]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.04.20-19.52.51:260][407]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.04.20-19.52.51:260][407]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.04.20-19.52.51:260][407]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.04.20-19.52.51:261][407]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.04.20-19.52.51:264][407]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.04.20-19.52.51:265][407]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.04.20-19.52.51:265][407]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.04.20-19.52.51:265][407]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.04.20-19.52.51:267][407]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.04.20-19.52.51:272][407]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.04.20-19.52.51:272][407]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.04.20-19.52.51:272][407]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.04.20-19.52.51:272][407]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.04.20-19.52.51:273][407]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.04.20-19.52.51:277][407]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.04.20-19.52.51:277][407]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.04.20-19.52.51:277][407]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.04.20-19.52.51:277][407]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.04.20-19.52.51:277][407]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.04.20-19.52.51:278][407]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.04.20-19.52.51:278][407]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.04.20-19.52.51:278][407]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.04.20-19.52.51:278][407]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.04.20-19.52.51:279][407]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.04.20-19.52.51:279][407]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.04.20-19.52.51:279][407]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.04.20-19.52.51:281][407]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.04.20-19.52.51:281][407]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.04.20-19.52.51:282][407]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.04.20-19.52.51:282][407]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.04.20-19.52.51:283][407]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.04.20-19.52.51:283][407]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.04.20-19.52.51:286][407]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.04.20-19.52.51:286][407]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.04.20-19.52.51:287][407]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.04.20-19.52.51:287][407]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.04.20-19.52.51:288][407]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.04.20-19.52.51:292][407]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.04.20-19.52.51:293][407]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.04.20-19.52.51:293][407]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.04.20-19.52.51:293][407]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.04.20-19.52.51:293][407]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.04.20-19.52.51:293][407]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.04.20-19.52.51:293][407]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.04.20-19.52.51:293][407]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.04.20-19.52.51:293][407]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.04.20-19.52.51:293][407]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.04.20-19.52.51:294][407]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.04.20-19.52.51:294][407]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.04.20-19.52.51:295][407]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.04.20-19.52.51:295][407]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.04.20-19.52.51:296][407]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.04.20-19.52.51:296][407]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.04.20-19.52.51:296][407]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.04.20-19.52.51:296][407]LogDerivedDataCache: Shutdown
+[2020.04.20-19.52.51:296][407]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.04.20-19.52.51:297][407]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.04.20-19.52.51:297][407]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.04.20-19.52.51:298][407]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.04.20-19.52.51:298][407]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.04.20-19.52.51:298][407]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.04.20-19.52.51:299][407]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.04.20-19.52.51:299][407]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.04.20-19.52.51:299][407]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.04.20-19.52.51:299][407]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.04.20-19.52.51:300][407]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.04.20-19.52.51:301][407]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.04.20-19.52.51:301][407]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.04.20-19.52.51:301][407]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.04.20-19.52.51:301][407]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.04.20-19.52.51:301][407]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.04.20-19.52.51:301][407]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.04.20-19.52.51:301][407]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.04.20-19.52.51:324][407]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.04.20-19.52.51:324][407]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.04.20-19.52.51:324][407]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.04.20-19.52.51:325][407]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.04.20-19.52.51:325][407]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.04.20-19.52.51:334][407]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.04.20-19.52.51:334][407]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.04.20-19.52.51:341][407]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.04.20-19.52.51:341][407]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.04.20-19.52.51:408][407]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.04.20-19.52.51:408][407]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.04.20-19.52.51:408][407]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.04.20-19.52.51:408][407]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.04.20-19.52.51:408][407]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.04.20-19.52.51:408][407]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.04.20-19.52.51:408][407]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.04.20-19.52.51:409][407]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.04.20-19.52.51:409][407]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.04.20-19.52.51:409][407]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.04.20-19.52.51:409][407]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.04.20-19.52.51:409][407]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.04.20-19.52.51:410][407]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.04.20-19.52.51:410][407]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.04.20-19.52.51:410][407]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.04.20-19.52.51:412][407]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.04.20-19.52.51:412][407]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.20-19.52.51:412][407]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.04.20-19.52.51:412][407]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.04.20-19.52.51:412][407]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.04.20-19.52.51:412][407]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.04.20-19.52.51:412][407]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.04.20-19.52.51:414][407]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.04.20-19.52.51:415][407]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.04.20-19.52.51:422][407]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.04.20-19.52.51:422][407]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.20-19.52.51:422][407]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCBE4BB72-4362-8F74-E12A-E48E8720B705%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=58dda9704dde784360860c9f15f546b8%7Ccda4b2154df5499584798975afb4bc10%7C22ad8c0c-e84b-418a-88c8-4304aff9ffd1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.04.20-19.52.51:441][407]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.04.20-19.52.51:444][407]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.04.20-19.52.51:448][407]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.04.20-19.52.51:450][407]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.04.20-19.52.51:450][407]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.04.20-19.52.51:451][407]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.04.20-19.52.51:451][407]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.04.20-19.52.51:451][407]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.04.20-19.52.51:451][407]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.04.20-19.52.51:452][407]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.04.20-19.52.51:452][407]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.04.20-19.52.51:454][407]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.04.20-19.52.51:454][407]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.04.20-19.52.51:454][407]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.04.20-19.52.51:454][407]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.04.20-19.52.51:461][407]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.04.20-19.52.51:462][407]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.04.20-19.52.51:462][407]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.04.20-19.52.51:462][407]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.04.20-19.52.51:462][407]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.04.20-19.52.51:462][407]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.04.20-19.52.51:462][407]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.04.20-19.52.51:463][407]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.04.20-19.52.51:463][407]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.04.20-19.52.51:463][407]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.04.20-19.52.51:463][407]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.04.20-19.52.51:463][407]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.04.20-19.52.51:465][407]LogD3D11RHI: Shutdown
+[2020.04.20-19.52.51:465][407]LogD3D11RHI: CleanupD3DDevice
+[2020.04.20-19.52.51:468][407]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.20-19.52.51:468][407]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.20-19.52.51:468][407]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.20-19.52.51:720][407]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.04.20-19.52.51:736][407]LogExit: Exiting.
+[2020.04.20-19.52.51:752][407]Log file closed, 04/20/20 12:52:51
