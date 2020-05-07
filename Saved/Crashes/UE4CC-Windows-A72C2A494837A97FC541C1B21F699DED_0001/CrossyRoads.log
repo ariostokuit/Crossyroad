@@ -1,0 +1,1625 @@
+﻿Log file open, 04/29/20 01:21:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CrossyRoads
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.177260
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 2400G with Radeon Vega Graphics    , GPU: AMD Radeon(TM) RX Vega 11 Graphics
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername="Ariosto Kuit" -epicuserid=cda4b2154df5499584798975afb4bc10 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.29-08.21.39:484][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.29-08.21.39:484][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.29-08.21.39:484][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Engine.ini]
+[2020.04.29-08.21.39:484][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.29-08.21.39:484][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.04.29-08.21.39:484][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Engine.ini]
+[2020.04.29-08.21.39:484][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Engine.ini]
+[2020.04.29-08.21.39:484][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Engine.ini]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.29-08.21.39:485][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.29-08.21.39:486][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.29-08.21.39:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Engine.ini]
+[2020.04.29-08.21.39:486][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Engine.ini]
+[2020.04.29-08.21.39:492][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.29-08.21.39:492][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.29-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.29-08.21.39:494][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.29-08.21.39:494][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.29-08.21.39:495][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.29-08.21.39:503][  0]LogHAL: Display: Platform has ~ 7 GB [7462141952 / 8589934592 / 7], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.29-08.21.39:503][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.29-08.21.39:503][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-08.21.39:503][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.29-08.21.39:503][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.29-08.21.39:503][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-08.21.39:503][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.29-08.21.39:503][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-08.21.39:503][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.29-08.21.39:503][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.29-08.21.39:503][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.29-08.21.39:503][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.29-08.21.39:503][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.29-08.21.39:503][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.29-08.21.39:503][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.29-08.21.39:503][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.29-08.21.39:503][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.29-08.21.39:503][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.29-08.21.39:504][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.29-08.21.39:505][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.29-08.21.39:506][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-08.21.39:506][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.29-08.21.39:506][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.29-08.21.39:506][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.29-08.21.39:506][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.29-08.21.39:506][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.29-08.21.39:506][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Ariosto/Desktop/Crossyroad/Saved/Config/Windows/Engine.ini]
+[2020.04.29-08.21.39:507][  0]LogInit: Computer: DESKTOP-QAEF8PM
+[2020.04.29-08.21.39:507][  0]LogInit: User: Ariosto
+[2020.04.29-08.21.39:507][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.29-08.21.39:507][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.29-08.21.39:507][  0]LogMemory: Memory total: Physical=6.9GB (7GB approx)
+[2020.04.29-08.21.39:507][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.29-08.21.39:507][  0]LogMemory: Process Physical Memory: 100.78 MB used, 100.78 MB peak
+[2020.04.29-08.21.39:507][  0]LogMemory: Process Virtual Memory: 88.49 MB used, 88.49 MB peak
+[2020.04.29-08.21.39:507][  0]LogMemory: Physical Memory: 4185.67 MB used,  2930.78 MB free, 7116.45 MB total
+[2020.04.29-08.21.39:507][  0]LogMemory: Virtual Memory: 4656.33 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.04.29-08.21.39:513][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.29-08.21.39:564][  0]LogInit: Using OS detected language (en-US).
+[2020.04.29-08.21.39:564][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.29-08.21.39:566][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.29-08.21.39:964][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.29-08.21.40:025][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.29-08.21.40:025][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.29-08.21.40:448][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.29-08.21.40:448][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.29-08.21.40:518][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) RX Vega 11 Graphics' (Feature Level 11_0)
+[2020.04.29-08.21.40:518][  0]LogD3D11RHI:       1008/0/3558 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.04.29-08.21.40:526][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.29-08.21.40:526][  0]LogD3D11RHI:       0/0/3558 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.29-08.21.40:526][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.29-08.21.40:538][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.29-08.21.40:538][  0]LogD3D11RHI:     GPU DeviceId: 0x15dd (for the marketing name, search the web for "GPU Device Id")
+[2020.04.29-08.21.40:538][  0]LogWindows: EnumDisplayDevices:
+[2020.04.29-08.21.40:538][  0]LogWindows:    0. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:1 D:1)
+[2020.04.29-08.21.40:539][  0]LogWindows:    1. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:0 D:0)
+[2020.04.29-08.21.40:540][  0]LogWindows:    2. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:0 D:0)
+[2020.04.29-08.21.40:541][  0]LogWindows:    3. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:0 D:0)
+[2020.04.29-08.21.40:541][  0]LogWindows:    4. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:0 D:0)
+[2020.04.29-08.21.40:542][  0]LogWindows:    5. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:0 D:0)
+[2020.04.29-08.21.40:543][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2020.04.29-08.21.40:543][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) RX Vega 11 Graphics
+[2020.04.29-08.21.40:543][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 19.12.2 (internal:26.20.15002.61, unified:26.20.15002.61)
+[2020.04.29-08.21.40:543][  0]LogD3D11RHI:      Driver Date: 12-4-2019
+[2020.04.29-08.21.40:543][  0]LogRHI: Texture pool is 705 MB (70% of 1008 MB)
+[2020.04.29-08.21.40:632][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.29-08.21.40:648][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.04.29-08.21.41:285][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.29-08.21.41:309][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.29-08.21.41:331][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.29-08.21.41:355][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.29-08.21.41:378][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.29-08.21.41:401][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.29-08.21.41:424][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.29-08.21.41:447][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.29-08.21.41:458][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.29-08.21.41:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.29-08.21.41:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.29-08.21.41:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.29-08.21.41:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.29-08.21.41:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.29-08.21.41:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.29-08.21.41:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.29-08.21.41:539][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.29-08.21.41:539][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.29-08.21.41:539][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.29-08.21.41:539][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.29-08.21.41:539][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.29-08.21.41:539][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.29-08.21.41:539][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.29-08.21.41:539][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.29-08.21.41:539][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.29-08.21.41:539][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.29-08.21.41:539][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.29-08.21.41:544][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.29-08.21.41:588][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.29-08.21.41:588][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.29-08.21.41:624][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.29-08.21.41:624][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.29-08.21.41:642][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.29-08.21.41:660][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.29-08.21.41:678][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.29-08.21.41:698][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.29-08.21.41:759][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.29-08.21.41:760][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.29-08.21.41:760][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.29-08.21.41:783][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.29-08.21.41:923][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../../Users/Ariosto/Desktop/Crossyroad/Intermediate/Shaders/WorkingDirectory/13276/).
+[2020.04.29-08.21.41:924][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ariosto/AppData/Local/Temp/UnrealShaderWorkingDir/D51FFC844A7510C80D7CA98036454428/'.
+[2020.04.29-08.21.41:931][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.29-08.21.41:931][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.29-08.21.41:931][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.29-08.21.43:339][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.29-08.21.43:426][  0]LogDerivedDataCache: Loaded boot cache 0.09s 73MB C:/Users/Ariosto/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.29-08.21.43:426][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ariosto/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.04.29-08.21.43:426][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ariosto/Desktop/Crossyroad/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.29-08.21.43:426][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.29-08.21.43:426][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ariosto/Desktop/Crossyroad/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.29-08.21.43:426][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.29-08.21.43:454][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.29-08.21.43:455][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.29-08.21.43:455][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.29-08.21.43:458][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ariosto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.29-08.21.43:458][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.29-08.21.43:458][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.29-08.21.43:508][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.29-08.21.43:515][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.29-08.21.43:516][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.29-08.21.43:648][  0]LogAssetRegistry: FAssetRegistry took 0.0066 seconds to start up
+[2020.04.29-08.21.44:377][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.29-08.21.44:741][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.29-08.21.44:741][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.29-08.21.44:741][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.29-08.21.44:742][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.29-08.21.44:742][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.29-08.21.44:760][  0]LogNetVersion: CrossyRoads 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3911093934)
+[2020.04.29-08.21.45:768][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.112595 seconds
+[2020.04.29-08.21.45:785][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.04.29-08.21.45:785][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.04.29-08.21.45:785][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.29-08.21.47:908][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.29-08.21.47:914][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.29-08.21.48:036][  0]SourceControl: Source control is disabled
+[2020.04.29-08.21.48:036][  0]SourceControl: Source control is disabled
+[2020.04.29-08.21.48:039][  0]SourceControl: Source control is disabled
+[2020.04.29-08.21.48:041][  0]SourceControl: Source control is disabled
+[2020.04.29-08.21.48:242][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.29-08.21.48:500][  0]LogOcInput: OculusInput pre-init called
+[2020.04.29-08.21.48:515][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.29-08.21.48:516][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.29-08.21.48:696][  0]LogEngine: Initializing Engine...
+[2020.04.29-08.21.48:697][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.29-08.21.48:699][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.29-08.21.49:256][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.29-08.21.49:292][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.29-08.21.49:319][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.29-08.21.49:367][  0]LogInit: FAudioDevice initialized.
+[2020.04.29-08.21.49:368][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.29-08.21.49:499][  0]LogDerivedDataCache: Saved boot cache 0.13s 73MB C:/Users/Ariosto/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.29-08.21.49:510][  0]LogInit: Texture streaming: Enabled
+[2020.04.29-08.21.49:555][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.29-08.21.49:715][  0]LogInit: Transaction tracking system initialized
+[2020.04.29-08.21.49:805][  0]BlueprintLog: New page: Editor Load
+[2020.04.29-08.21.50:054][  0]LocalizationService: Localization service is disabled
+[2020.04.29-08.21.50:743][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ariosto/Desktop/Crossyroad/Content/' took 0.00s
+[2020.04.29-08.21.50:743][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.29-08.21.50:743][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.29-08.21.51:172][  0]SourceControl: Source control is disabled
+[2020.04.29-08.21.51:172][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-08.21.51:173][  0]LightingResults: New page: Lighting Build
+[2020.04.29-08.21.51:180][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.21.51:181][  0]MapCheck: New page: Map Check
+[2020.04.29-08.21.51:181][  0]LightingResults: New page: Lighting Build
+[2020.04.29-08.21.51:233][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.04.29-08.21.51:434][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.29-08.21.51:451][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-08.21.51:508][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.04.29-08.21.51:508][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-08.21.51:508][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.387ms to complete.
+[2020.04.29-08.21.51:508][  0]LogFileHelpers: Loading map 'Template_Default' took 0.336
+[2020.04.29-08.21.51:676][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.21.51:692][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.21.51:708][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.21.51:723][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.21.51:738][  0]LogCollectionManager: Loaded 0 collections in 0.004760 seconds
+[2020.04.29-08.21.51:752][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ariosto/Desktop/Crossyroad/Saved/Collections/' took 0.00s
+[2020.04.29-08.21.51:752][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ariosto/Desktop/Crossyroad/Content/Developers/Ariosto/Collections/' took 0.00s
+[2020.04.29-08.21.51:752][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ariosto/Desktop/Crossyroad/Content/Collections/' took 0.00s
+[2020.04.29-08.21.51:752][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2020.04.29-08.21.51:772][  0]LogContentBrowser: Native class hierarchy populated in 0.0196 seconds. Added 2863 classes and 680 folders.
+[2020.04.29-08.21.51:788][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.29-08.21.51:885][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.29-08.21.51:897][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.04.29-08.21.52:049][  0]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.29-08.21.52:053][  0]LogSlate: Took 0.000420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.29-08.21.52:074][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.29-08.21.52:074][  0]LogLoad: (Engine Initialization) Total time: 15.54 seconds
+[2020.04.29-08.21.52:074][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.29-08.21.52:141][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.29-08.21.52:155][  0]LogSlate: Took 0.000509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.29-08.21.52:310][  1]LogRenderer: Reallocating scene render targets to support 1036x428 Format 10 NumSamples 1 (Frame:1).
+[2020.04.29-08.21.52:456][  2]LogAssetRegistry: Asset discovery search completed in 8.8108 seconds
+[2020.04.29-08.21.52:468][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000010 seconds (found 0 objects)
+[2020.04.29-08.21.52:468][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000161 seconds (updated 0 objects)
+[2020.04.29-08.21.55:439][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.21.55:538][ 17]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.29-08.21.58:357][191]LogSlate: Took 0.000392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.29-08.21.58:370][191]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner
+[2020.04.29-08.21.58:992][191]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 121 classes and 0 folders.
+[2020.04.29-08.22.01:164][191]LogSlate: Took 0.000439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.29-08.22.01:308][192]LogSlate: Took 0.000629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.29-08.22.38:192][955]BlueprintLog: New page: Compile BP_LaneSpawner
+[2020.04.29-08.22.38:731][955]LogUObjectHash: Compacting FUObjectHashTables data took  11.95ms
+[2020.04.29-08.23.05:587][352]BlueprintLog: New page: Compile BP_LaneSpawner
+[2020.04.29-08.23.06:047][352]LogUObjectHash: Compacting FUObjectHashTables data took  10.34ms
+[2020.04.29-08.23.21:396][140]BlueprintLog: New page: Compile BP_LaneSpawner
+[2020.04.29-08.23.21:870][140]LogUObjectHash: Compacting FUObjectHashTables data took  10.89ms
+[2020.04.29-08.23.36:694][924]LogSlate: Window 'BP_LaneSpawner' being destroyed
+[2020.04.29-08.23.36:703][924]LogSlate: Window 'BP_LaneSpawner' being destroyed
+[2020.04.29-08.23.36:703][924]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.23.37:878][964]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Lane.BP_Lane
+[2020.04.29-08.23.41:870][116]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-08.23.41:879][116]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-08.23.41:879][116]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.23.44:422][247]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.29-08.23.44:445][247]LogAssetEditorManager: Opening Asset editor for World /Game/NewMap1.NewMap1
+[2020.04.29-08.23.44:518][247]LogUObjectHash: Compacting FUObjectHashTables data took   8.83ms
+[2020.04.29-08.23.46:453][247]LogSlate: Window 'Save Content' being destroyed
+[2020.04.29-08.23.46:466][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_LaneSpawner" FILE="../../../../../../Users/Ariosto/Desktop/Crossyroad/Content/Blueprints/BP_LaneSpawner.uasset" SILENT=true
+[2020.04.29-08.23.46:568][247]LogSavePackage: Moving '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/BP_LaneSpawnerD9AA746E4DCFA4A9F6E8DABEC6B38CBC.tmp' to '../../../../../../Users/Ariosto/Desktop/Crossyroad/Content/Blueprints/BP_LaneSpawner.uasset'
+[2020.04.29-08.23.46:577][247]Cmd: MAP LOAD FILE="../../../../../../Users/Ariosto/Desktop/Crossyroad/Content/NewMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-08.23.46:578][247]LightingResults: New page: Lighting Build
+[2020.04.29-08.23.46:579][247]LoadErrors: New page: Loading map: NewMap1.umap
+[2020.04.29-08.23.46:579][247]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.23.46:580][247]MapCheck: New page: Map Check
+[2020.04.29-08.23.46:580][247]LightingResults: New page: Lighting Build
+[2020.04.29-08.23.46:656][247]LogUObjectHash: Compacting FUObjectHashTables data took   9.40ms
+[2020.04.29-08.23.46:835][247]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-08.23.46:901][247]LogUObjectHash: Compacting FUObjectHashTables data took   7.85ms
+[2020.04.29-08.23.46:987][247]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-08.23.46:987][247]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.291ms to complete.
+[2020.04.29-08.23.46:987][247]LogFileHelpers: Loading map 'NewMap1' took 0.412
+[2020.04.29-08.23.48:631][323]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-08.23.48:673][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.23.48:673][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-08.23.48:674][323]PIE: New page: PIE session: NewMap1 (Apr 28, 2020, 6:23:48 PM)
+[2020.04.29-08.23.48:675][323]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.29-08.23.48:677][323]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.23.48:687][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009571s)
+[2020.04.29-08.23.48:689][323]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.29-08.23.48:690][323]LogPlayLevel: PIE: World Init took: (0.002405s)
+[2020.04.29-08.23.48:690][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.012629s)
+[2020.04.29-08.23.48:752][323]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.04.29-08.23.48:774][323]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.29-08.23.48:812][323]LogInit: FAudioDevice initialized.
+[2020.04.29-08.23.48:830][323]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.29-08.23.48:835][323]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.29-01.23.48
+[2020.04.29-08.23.48:836][323]LogWorld: Bringing up level for play took: 0.003944
+[2020.04.29-08.23.48:837][323]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.04.29-08.23.48:862][323]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.04.29-08.23.48:869][323]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 -0.028
+[2020.04.29-08.23.48:869][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.23.56:315][860]LogScript: Warning: Accessed None trying to read property LaneSpawner
+	BP_Lane_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_Lane_C_3
+	Function /Game/Blueprints/BP_Lane.BP_Lane_C:ExecuteUbergraph_BP_Lane:0015
+[2020.04.29-08.23.56:315][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property LaneSpawner". Blueprint:  BP_Lane Function:  Execute Ubergraph BP Lane Graph:  EventGraph Node:  Spawn Lane at Spawn Point
+[2020.04.29-08.23.56:316][860]LogScript: Warning: Attempted to access BP_Lane_C_3 via property NewestLane, but BP_Lane_C_3 is pending kill
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLane:00F5
+[2020.04.29-08.23.56:316][860]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_3 via property NewestLane, but BP_Lane_C_3 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.23.56:316][860]LogScript: Warning: Accessed None attempting to assign variable on an object
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLane:010A
+[2020.04.29-08.23.56:316][860]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.23.56:316][860]LogScript: Warning: Attempted to access BP_Lane_C_3 via property NewestLane, but BP_Lane_C_3 is pending kill
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLaneAtSpawnPoint:001F
+[2020.04.29-08.23.56:316][860]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_3 via property NewestLane, but BP_Lane_C_3 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane at Spawn Point Graph:  SpawnLaneAtSpawnPoint Node:  Spawn Lane
+[2020.04.29-08.23.56:316][860]LogScript: Warning: Accessed None
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLaneAtSpawnPoint:0034
+[2020.04.29-08.23.56:317][860]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_LaneSpawner Function:  Spawn Lane at Spawn Point Graph:  SpawnLaneAtSpawnPoint Node:  Spawn Lane
+[2020.04.29-08.24.00:864][183]LogScript: Warning: Accessed None trying to read property LaneSpawner
+	BP_Lane_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_Lane_C_6
+	Function /Game/Blueprints/BP_Lane.BP_Lane_C:ExecuteUbergraph_BP_Lane:0015
+[2020.04.29-08.24.00:865][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property LaneSpawner". Blueprint:  BP_Lane Function:  Execute Ubergraph BP Lane Graph:  EventGraph Node:  Spawn Lane at Spawn Point
+[2020.04.29-08.24.00:865][183]LogScript: Warning: Attempted to access BP_Lane_C_6 via property NewestLane, but BP_Lane_C_6 is pending kill
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLane:00F5
+[2020.04.29-08.24.00:866][183]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_6 via property NewestLane, but BP_Lane_C_6 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.24.00:866][183]LogScript: Warning: Accessed None attempting to assign variable on an object
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLane:010A
+[2020.04.29-08.24.00:866][183]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.24.00:867][183]LogScript: Warning: Attempted to access BP_Lane_C_6 via property NewestLane, but BP_Lane_C_6 is pending kill
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLaneAtSpawnPoint:001F
+[2020.04.29-08.24.00:867][183]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_6 via property NewestLane, but BP_Lane_C_6 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane at Spawn Point Graph:  SpawnLaneAtSpawnPoint Node:  Spawn Lane
+[2020.04.29-08.24.00:867][183]LogScript: Warning: Accessed None
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLaneAtSpawnPoint:0034
+[2020.04.29-08.24.00:867][183]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_LaneSpawner Function:  Spawn Lane at Spawn Point Graph:  SpawnLaneAtSpawnPoint Node:  Spawn Lane
+[2020.04.29-08.24.00:869][183]LogScript: Warning: Accessed None trying to read property LaneSpawner
+	BP_Lane_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_Lane_C_7
+	Function /Game/Blueprints/BP_Lane.BP_Lane_C:ExecuteUbergraph_BP_Lane:0015
+[2020.04.29-08.24.00:869][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property LaneSpawner". Blueprint:  BP_Lane Function:  Execute Ubergraph BP Lane Graph:  EventGraph Node:  Spawn Lane at Spawn Point
+[2020.04.29-08.24.00:869][183]LogScript: Warning: Attempted to access BP_Lane_C_7 via property NewestLane, but BP_Lane_C_7 is pending kill
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLane:00F5
+[2020.04.29-08.24.00:870][183]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_7 via property NewestLane, but BP_Lane_C_7 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.24.00:870][183]LogScript: Warning: Accessed None attempting to assign variable on an object
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLane:010A
+[2020.04.29-08.24.00:870][183]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.24.04:401][471]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.24.04:402][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.24.04:403][471]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.24.04:404][471]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.24.04:416][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-08.24.04:417][471]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.24.04:493][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.24.04:589][471]LogUObjectHash: Compacting FUObjectHashTables data took   9.47ms
+[2020.04.29-08.24.04:604][471]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.29-08.24.04:696][472]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.04.29-08.24.05:934][541]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.24.05:958][541]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.25.10:250][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.25.13:549][632]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-08.25.13:597][632]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.25.13:597][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-08.25.13:597][632]PIE: New page: PIE session: NewMap1 (Apr 28, 2020, 6:25:13 PM)
+[2020.04.29-08.25.13:598][632]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.25.13:606][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008109s)
+[2020.04.29-08.25.13:608][632]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.29-08.25.13:608][632]LogPlayLevel: PIE: World Init took: (0.001989s)
+[2020.04.29-08.25.13:608][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.010368s)
+[2020.04.29-08.25.13:717][632]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2020.04.29-08.25.13:738][632]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.29-08.25.13:777][632]LogInit: FAudioDevice initialized.
+[2020.04.29-08.25.13:793][632]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.29-08.25.13:796][632]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.29-01.25.13
+[2020.04.29-08.25.13:797][632]LogWorld: Bringing up level for play took: 0.003334
+[2020.04.29-08.25.13:797][632]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.04.29-08.25.13:805][632]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 0.909
+[2020.04.29-08.25.13:806][632]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.25.16:118][808]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.25.16:119][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.25.16:119][808]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.25.16:120][808]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.25.16:133][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-08.25.16:134][808]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.25.16:198][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.25.16:205][808]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.04.29-08.25.16:237][809]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.04.29-08.25.16:727][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.29-08.25.18:945][976]Cmd: DELETE
+[2020.04.29-08.25.18:945][976]Cmd: ACTOR DELETE
+[2020.04.29-08.25.18:954][976]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.29-08.25.19:006][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.04.29-08.25.19:006][976]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2020.04.29-08.25.20:110][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road2)
+[2020.04.29-08.25.20:939][106]Cmd: DELETE
+[2020.04.29-08.25.20:939][106]Cmd: ACTOR DELETE
+[2020.04.29-08.25.20:942][106]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.29-08.25.20:995][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.04.29-08.25.20:995][106]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2020.04.29-08.25.21:205][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Grass)
+[2020.04.29-08.25.21:344][125]Cmd: DELETE
+[2020.04.29-08.25.21:344][125]Cmd: ACTOR DELETE
+[2020.04.29-08.25.21:348][125]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.29-08.25.21:404][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.04.29-08.25.21:405][125]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2020.04.29-08.25.21:678][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road3)
+[2020.04.29-08.25.21:778][147]Cmd: DELETE
+[2020.04.29-08.25.21:778][147]Cmd: ACTOR DELETE
+[2020.04.29-08.25.21:781][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.29-08.25.21:835][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.04.29-08.25.21:836][147]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2020.04.29-08.25.22:663][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree)
+[2020.04.29-08.25.22:832][213]Cmd: DELETE
+[2020.04.29-08.25.22:832][213]Cmd: ACTOR DELETE
+[2020.04.29-08.25.22:836][213]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.29-08.25.22:894][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.04.29-08.25.22:895][213]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2020.04.29-08.25.23:443][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree2)
+[2020.04.29-08.25.23:590][258]Cmd: DELETE
+[2020.04.29-08.25.23:590][258]Cmd: ACTOR DELETE
+[2020.04.29-08.25.23:593][258]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.29-08.25.23:649][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.04.29-08.25.23:650][258]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2020.04.29-08.25.24:016][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree4)
+[2020.04.29-08.25.24:169][290]Cmd: DELETE
+[2020.04.29-08.25.24:169][290]Cmd: ACTOR DELETE
+[2020.04.29-08.25.24:172][290]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.29-08.25.24:226][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.04.29-08.25.24:227][290]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2020.04.29-08.25.24:446][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Grass2)
+[2020.04.29-08.25.24:646][311]Cmd: DELETE
+[2020.04.29-08.25.24:646][311]Cmd: ACTOR DELETE
+[2020.04.29-08.25.24:650][311]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.29-08.25.24:705][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.04.29-08.25.24:706][311]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2020.04.29-08.25.25:357][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree5)
+[2020.04.29-08.25.25:683][376]Cmd: DELETE
+[2020.04.29-08.25.25:683][376]Cmd: ACTOR DELETE
+[2020.04.29-08.25.25:687][376]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.29-08.25.25:743][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.04.29-08.25.25:744][376]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2020.04.29-08.25.26:229][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree3)
+[2020.04.29-08.25.26:425][420]Cmd: DELETE
+[2020.04.29-08.25.26:425][420]Cmd: ACTOR DELETE
+[2020.04.29-08.25.26:429][420]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.29-08.25.26:483][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.04.29-08.25.26:484][420]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2020.04.29-08.25.26:774][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road)
+[2020.04.29-08.25.27:012][450]Cmd: DELETE
+[2020.04.29-08.25.27:012][450]Cmd: ACTOR DELETE
+[2020.04.29-08.25.27:016][450]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.29-08.25.27:071][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.04.29-08.25.27:072][450]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2020.04.29-08.25.27:638][494]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.29-08.25.28:130][520]LogEditorViewport: Clicking on Actor (LMB): BP_Truck2_C (BP_Truck2)
+[2020.04.29-08.25.28:561][545]Cmd: DELETE
+[2020.04.29-08.25.28:561][545]Cmd: ACTOR DELETE
+[2020.04.29-08.25.28:564][545]LogEditorActor: Deleted Actor: BP_Truck2_C
+[2020.04.29-08.25.28:625][545]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.04.29-08.25.28:625][545]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2020.04.29-08.25.29:939][639]LogEditorViewport: Clicking on Actor (LMB): BP_Truck_C (BP_Truck)
+[2020.04.29-08.25.30:095][645]Cmd: DELETE
+[2020.04.29-08.25.30:095][645]Cmd: ACTOR DELETE
+[2020.04.29-08.25.30:098][645]LogEditorActor: Deleted Actor: BP_Truck_C
+[2020.04.29-08.25.30:159][645]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.04.29-08.25.30:159][645]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2020.04.29-08.25.31:863][768]LogEditorViewport: Clicking on Actor (LMB): BP_PoliceCar_C (BP_PoliceCar)
+[2020.04.29-08.25.31:990][772]Cmd: DELETE
+[2020.04.29-08.25.31:990][772]Cmd: ACTOR DELETE
+[2020.04.29-08.25.31:994][772]LogEditorActor: Deleted Actor: BP_PoliceCar_C
+[2020.04.29-08.25.32:052][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.04.29-08.25.32:053][772]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2020.04.29-08.25.32:394][798]LogEditorViewport: Clicking on Actor (LMB): BP_Train_C (BP_Train3)
+[2020.04.29-08.25.32:581][806]Cmd: DELETE
+[2020.04.29-08.25.32:581][806]Cmd: ACTOR DELETE
+[2020.04.29-08.25.32:584][806]LogEditorActor: Deleted Actor: BP_Train_C
+[2020.04.29-08.25.32:638][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.04.29-08.25.32:639][806]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2020.04.29-08.25.32:986][832]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.29-08.25.33:154][838]Cmd: DELETE
+[2020.04.29-08.25.33:154][838]Cmd: ACTOR DELETE
+[2020.04.29-08.25.33:157][838]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2020.04.29-08.25.33:207][838]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.04.29-08.25.33:208][838]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2020.04.29-08.25.36:993][ 41]LogEditorViewport: Clicking Background
+[2020.04.29-08.25.37:147][ 53]Cmd: TRANSACTION UNDO
+[2020.04.29-08.25.37:147][ 53]LogEditorTransaction: Undo Delete Actors
+[2020.04.29-08.25.38:141][ 98]LogEditorViewport: Clicking on Actor (LMB): BP_Train_C (BP_Train2)
+[2020.04.29-08.25.39:068][146]Cmd: DELETE
+[2020.04.29-08.25.39:069][146]Cmd: ACTOR DELETE
+[2020.04.29-08.25.39:071][146]LogEditorActor: Deleted Actor: BP_Train_C
+[2020.04.29-08.25.39:130][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.04.29-08.25.39:131][146]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2020.04.29-08.25.39:563][172]LogEditorViewport: Clicking on Actor (LMB): BP_Train_C (BP_Train)
+[2020.04.29-08.25.39:704][177]Cmd: DELETE
+[2020.04.29-08.25.39:704][177]Cmd: ACTOR DELETE
+[2020.04.29-08.25.39:707][177]LogEditorActor: Deleted Actor: BP_Train_C
+[2020.04.29-08.25.39:766][177]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.04.29-08.25.39:767][177]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2020.04.29-08.25.40:439][222]LogEditorViewport: Clicking on Actor (LMB): BP_PoliceCar2_C (BP_PoliceCar2)
+[2020.04.29-08.25.40:739][237]Cmd: DELETE
+[2020.04.29-08.25.40:739][237]Cmd: ACTOR DELETE
+[2020.04.29-08.25.40:744][237]LogEditorActor: Deleted Actor: BP_PoliceCar2_C
+[2020.04.29-08.25.40:801][237]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.04.29-08.25.40:801][237]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2020.04.29-08.25.42:628][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.25.42:745][363]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-08.25.42:790][363]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.25.42:790][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-08.25.42:791][363]PIE: New page: PIE session: NewMap1 (Apr 28, 2020, 6:25:42 PM)
+[2020.04.29-08.25.42:791][363]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.25.42:796][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004846s)
+[2020.04.29-08.25.42:797][363]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.29-08.25.42:798][363]LogPlayLevel: PIE: World Init took: (0.002154s)
+[2020.04.29-08.25.42:798][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.007272s)
+[2020.04.29-08.25.42:852][363]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2020.04.29-08.25.42:875][363]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.29-08.25.42:913][363]LogInit: FAudioDevice initialized.
+[2020.04.29-08.25.42:927][363]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.29-08.25.42:929][363]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.29-01.25.42
+[2020.04.29-08.25.42:930][363]LogWorld: Bringing up level for play took: 0.001119
+[2020.04.29-08.25.42:930][363]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.04.29-08.25.42:938][363]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 0.042
+[2020.04.29-08.25.42:939][363]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.25.50:203][978]LogScript: Warning: Accessed None trying to read property LaneSpawner
+	BP_Lane_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_Lane_C_3
+	Function /Game/Blueprints/BP_Lane.BP_Lane_C:ExecuteUbergraph_BP_Lane:0015
+[2020.04.29-08.25.50:204][978]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property LaneSpawner". Blueprint:  BP_Lane Function:  Execute Ubergraph BP Lane Graph:  EventGraph Node:  Spawn Lane at Spawn Point
+[2020.04.29-08.25.50:204][978]LogScript: Warning: Attempted to access BP_Lane_C_3 via property NewestLane, but BP_Lane_C_3 is pending kill
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLane:00F5
+[2020.04.29-08.25.50:204][978]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_3 via property NewestLane, but BP_Lane_C_3 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.25.50:204][978]LogScript: Warning: Accessed None attempting to assign variable on an object
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLane:010A
+[2020.04.29-08.25.50:204][978]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.25.50:205][978]LogScript: Warning: Attempted to access BP_Lane_C_3 via property NewestLane, but BP_Lane_C_3 is pending kill
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLaneAtSpawnPoint:001F
+[2020.04.29-08.25.50:205][978]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_3 via property NewestLane, but BP_Lane_C_3 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane at Spawn Point Graph:  SpawnLaneAtSpawnPoint Node:  Spawn Lane
+[2020.04.29-08.25.50:205][978]LogScript: Warning: Accessed None
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLaneAtSpawnPoint:0034
+[2020.04.29-08.25.50:205][978]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_LaneSpawner Function:  Spawn Lane at Spawn Point Graph:  SpawnLaneAtSpawnPoint Node:  Spawn Lane
+[2020.04.29-08.25.55:366][435]LogScript: Warning: Accessed None trying to read property LaneSpawner
+	BP_Lane_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_Lane_C_6
+	Function /Game/Blueprints/BP_Lane.BP_Lane_C:ExecuteUbergraph_BP_Lane:0015
+[2020.04.29-08.25.55:366][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property LaneSpawner". Blueprint:  BP_Lane Function:  Execute Ubergraph BP Lane Graph:  EventGraph Node:  Spawn Lane at Spawn Point
+[2020.04.29-08.25.55:366][435]LogScript: Warning: Attempted to access BP_Lane_C_6 via property NewestLane, but BP_Lane_C_6 is pending kill
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLane:00F5
+[2020.04.29-08.25.55:367][435]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_6 via property NewestLane, but BP_Lane_C_6 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.25.55:367][435]LogScript: Warning: Accessed None attempting to assign variable on an object
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLane:010A
+[2020.04.29-08.25.55:367][435]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.25.55:367][435]LogScript: Warning: Attempted to access BP_Lane_C_6 via property NewestLane, but BP_Lane_C_6 is pending kill
+	BP_LaneSpawner_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_LaneSpawner_2
+	Function /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:SpawnLaneAtSpawnPoint:001F
+[2020.04.29-08.25.55:367][435]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_6 via property NewestLane, but BP_Lane_C_6 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane at Spawn Point Graph:  SpawnLaneAtSpawnPoint Node:  Spawn Lane
+[2020.04.29-08.25.55:367][435]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_LaneSpawner Function:  Spawn Lane at Spawn Point Graph:  SpawnLaneAtSpawnPoint Node:  Spawn Lane
+[2020.04.29-08.25.55:369][435]LogScript: Warning: Accessed None trying to read property LaneSpawner
+	BP_Lane_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_Lane_C_7
+	Function /Game/Blueprints/BP_Lane.BP_Lane_C:ExecuteUbergraph_BP_Lane:0015
+[2020.04.29-08.25.55:369][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property LaneSpawner". Blueprint:  BP_Lane Function:  Execute Ubergraph BP Lane Graph:  EventGraph Node:  Spawn Lane at Spawn Point
+[2020.04.29-08.25.55:370][435]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_7 via property NewestLane, but BP_Lane_C_7 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.25.55:370][435]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.25.59:681][822]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.25.59:682][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.25.59:682][822]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.25.59:682][822]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.25.59:699][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-08.25.59:700][822]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.25.59:757][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.25.59:763][822]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.04.29-08.25.59:778][822]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.29-08.25.59:861][823]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.04.29-08.26.10:650][417]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner
+[2020.04.29-08.26.19:700][775]LogSlate: Window 'BP_LaneSpawner' being destroyed
+[2020.04.29-08.26.19:712][775]LogSlate: Window 'BP_LaneSpawner' being destroyed
+[2020.04.29-08.26.19:730][775]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.26.20:603][819]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.26.20:627][819]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.26.22:423][909]LogRenderer: Reallocating scene render targets to support 1036x432 Format 10 NumSamples 1 (Frame:3810).
+[2020.04.29-08.26.22:498][909]LogRenderer: Reallocating scene render targets to support 1036x436 Format 10 NumSamples 1 (Frame:3811).
+[2020.04.29-08.26.22:582][909]LogRenderer: Reallocating scene render targets to support 1036x444 Format 10 NumSamples 1 (Frame:3812).
+[2020.04.29-08.26.24:624][999]Cmd: SELECT NONE
+[2020.04.29-08.26.25:665][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-08.26.25:707][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.26.25:707][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-08.26.25:707][ 70]PIE: New page: PIE session: NewMap1 (Apr 28, 2020, 6:26:25 PM)
+[2020.04.29-08.26.25:707][ 70]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.26.25:713][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005716s)
+[2020.04.29-08.26.25:715][ 70]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.29-08.26.25:715][ 70]LogPlayLevel: PIE: World Init took: (0.002032s)
+[2020.04.29-08.26.25:715][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.008020s)
+[2020.04.29-08.26.25:777][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.04.29-08.26.25:799][ 70]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.29-08.26.25:837][ 70]LogInit: FAudioDevice initialized.
+[2020.04.29-08.26.25:847][ 70]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.29-08.26.25:848][ 70]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.29-01.26.25
+[2020.04.29-08.26.25:848][ 70]LogWorld: Bringing up level for play took: 0.000947
+[2020.04.29-08.26.25:849][ 70]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.04.29-08.26.25:856][ 70]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 0.959
+[2020.04.29-08.26.25:856][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.26.35:745][918]LogScript: Warning: Accessed None trying to read property LaneSpawner
+	BP_Lane_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_Lane_C_3
+	Function /Game/Blueprints/BP_Lane.BP_Lane_C:ExecuteUbergraph_BP_Lane:0015
+[2020.04.29-08.26.35:745][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property LaneSpawner". Blueprint:  BP_Lane Function:  Execute Ubergraph BP Lane Graph:  EventGraph Node:  Spawn Lane at Spawn Point
+[2020.04.29-08.26.35:745][918]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_3 via property NewestLane, but BP_Lane_C_3 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.26.35:746][918]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.26.35:746][918]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_3 via property NewestLane, but BP_Lane_C_3 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane at Spawn Point Graph:  SpawnLaneAtSpawnPoint Node:  Spawn Lane
+[2020.04.29-08.26.35:746][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_LaneSpawner Function:  Spawn Lane at Spawn Point Graph:  SpawnLaneAtSpawnPoint Node:  Spawn Lane
+[2020.04.29-08.26.42:486][517]LogScript: Warning: Accessed None trying to read property LaneSpawner
+	BP_Lane_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_Lane_C_6
+	Function /Game/Blueprints/BP_Lane.BP_Lane_C:ExecuteUbergraph_BP_Lane:0015
+[2020.04.29-08.26.42:486][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property LaneSpawner". Blueprint:  BP_Lane Function:  Execute Ubergraph BP Lane Graph:  EventGraph Node:  Spawn Lane at Spawn Point
+[2020.04.29-08.26.42:487][517]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_6 via property NewestLane, but BP_Lane_C_6 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.26.42:487][517]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.26.42:488][517]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_6 via property NewestLane, but BP_Lane_C_6 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane at Spawn Point Graph:  SpawnLaneAtSpawnPoint Node:  Spawn Lane
+[2020.04.29-08.26.42:488][517]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_LaneSpawner Function:  Spawn Lane at Spawn Point Graph:  SpawnLaneAtSpawnPoint Node:  Spawn Lane
+[2020.04.29-08.26.42:489][517]LogScript: Warning: Accessed None trying to read property LaneSpawner
+	BP_Lane_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_Lane_C_7
+	Function /Game/Blueprints/BP_Lane.BP_Lane_C:ExecuteUbergraph_BP_Lane:0015
+[2020.04.29-08.26.42:490][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property LaneSpawner". Blueprint:  BP_Lane Function:  Execute Ubergraph BP Lane Graph:  EventGraph Node:  Spawn Lane at Spawn Point
+[2020.04.29-08.26.42:490][517]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_7 via property NewestLane, but BP_Lane_C_7 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.26.42:490][517]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.26.43:498][606]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.26.43:498][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.26.43:498][606]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.26.43:499][606]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.26.43:516][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-08.26.43:516][606]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.26.43:582][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.26.43:589][606]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2020.04.29-08.26.43:606][606]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.29-08.26.43:686][607]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.04.29-08.26.44:829][664]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.26.44:855][664]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.27.04:512][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.27.09:132][ 99]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner
+[2020.04.29-08.27.59:493][362]LogRenderer: Reallocating scene render targets to support 1036x480 Format 10 NumSamples 1 (Frame:1).
+[2020.04.29-08.28.01:965][451]LogSlate: Window 'BP_LaneSpawner' being destroyed
+[2020.04.29-08.28.01:974][451]LogSlate: Window 'BP_LaneSpawner' being destroyed
+[2020.04.29-08.28.01:996][451]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.28.03:318][491]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Lane.BP_Lane
+[2020.04.29-08.28.34:992][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.28.35:090][752]BlueprintLog: New page: Compile BP_Lane
+[2020.04.29-08.28.35:585][752]LogUObjectHash: Compacting FUObjectHashTables data took   7.49ms
+[2020.04.29-08.28.38:116][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.28.38:533][869]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-08.28.38:558][869]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-08.28.38:560][869]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.28.41:345][ 45]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-08.28.41:387][ 45]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.28.41:387][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-08.28.41:387][ 45]PIE: New page: PIE session: NewMap1 (Apr 28, 2020, 6:28:41 PM)
+[2020.04.29-08.28.41:387][ 45]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.28.41:392][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004949s)
+[2020.04.29-08.28.41:394][ 45]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.29-08.28.41:394][ 45]LogPlayLevel: PIE: World Init took: (0.001858s)
+[2020.04.29-08.28.41:394][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.007067s)
+[2020.04.29-08.28.41:454][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   8.06ms
+[2020.04.29-08.28.41:474][ 45]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.29-08.28.41:510][ 45]LogInit: FAudioDevice initialized.
+[2020.04.29-08.28.41:521][ 45]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.29-08.28.41:523][ 45]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.29-01.28.41
+[2020.04.29-08.28.41:524][ 45]LogWorld: Bringing up level for play took: 0.001435
+[2020.04.29-08.28.41:524][ 45]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.04.29-08.28.41:532][ 45]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 0.635
+[2020.04.29-08.28.41:533][ 45]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.28.47:805][534]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.28.47:806][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.28.47:806][534]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.28.47:806][534]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.28.47:823][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-08.28.47:824][534]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.28.47:892][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.28.47:901][534]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2020.04.29-08.28.47:933][535]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.04.29-08.28.48:582][580]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.29-08.28.49:628][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.28.49:707][639]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-08.28.49:749][639]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.28.49:749][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-08.28.49:749][639]PIE: New page: PIE session: NewMap1 (Apr 28, 2020, 6:28:49 PM)
+[2020.04.29-08.28.49:749][639]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.28.49:754][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005016s)
+[2020.04.29-08.28.49:756][639]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.29-08.28.49:756][639]LogPlayLevel: PIE: World Init took: (0.001963s)
+[2020.04.29-08.28.49:756][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.007242s)
+[2020.04.29-08.28.49:819][639]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.04.29-08.28.49:839][639]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.29-08.28.49:875][639]LogInit: FAudioDevice initialized.
+[2020.04.29-08.28.49:890][639]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.29-08.28.49:892][639]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.29-01.28.49
+[2020.04.29-08.28.49:893][639]LogWorld: Bringing up level for play took: 0.001013
+[2020.04.29-08.28.49:893][639]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.04.29-08.28.49:899][639]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 1.002
+[2020.04.29-08.28.49:900][639]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.28.55:411][ 66]LogScript: Warning: Accessed None trying to read property LaneSpawner
+	BP_Lane_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_Lane_C_3
+	Function /Game/Blueprints/BP_Lane.BP_Lane_C:ExecuteUbergraph_BP_Lane:0015
+[2020.04.29-08.28.55:411][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property LaneSpawner". Blueprint:  BP_Lane Function:  Execute Ubergraph BP Lane Graph:  EventGraph Node:  Spawn Lane at Spawn Point
+[2020.04.29-08.28.55:412][ 66]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_3 via property NewestLane, but BP_Lane_C_3 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.28.55:412][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.28.55:412][ 66]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_3 via property NewestLane, but BP_Lane_C_3 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane at Spawn Point Graph:  SpawnLaneAtSpawnPoint Node:  Spawn Lane
+[2020.04.29-08.28.55:412][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_LaneSpawner Function:  Spawn Lane at Spawn Point Graph:  SpawnLaneAtSpawnPoint Node:  Spawn Lane
+[2020.04.29-08.29.00:124][448]LogScript: Warning: Accessed None trying to read property LaneSpawner
+	BP_Lane_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_Lane_C_6
+	Function /Game/Blueprints/BP_Lane.BP_Lane_C:ExecuteUbergraph_BP_Lane:0015
+[2020.04.29-08.29.00:124][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property LaneSpawner". Blueprint:  BP_Lane Function:  Execute Ubergraph BP Lane Graph:  EventGraph Node:  Spawn Lane at Spawn Point
+[2020.04.29-08.29.00:124][448]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_6 via property NewestLane, but BP_Lane_C_6 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.29.00:125][448]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.29.00:125][448]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_6 via property NewestLane, but BP_Lane_C_6 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane at Spawn Point Graph:  SpawnLaneAtSpawnPoint Node:  Spawn Lane
+[2020.04.29-08.29.00:125][448]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_LaneSpawner Function:  Spawn Lane at Spawn Point Graph:  SpawnLaneAtSpawnPoint Node:  Spawn Lane
+[2020.04.29-08.29.00:126][448]LogScript: Warning: Accessed None trying to read property LaneSpawner
+	BP_Lane_C /Game/UEDPIE_0_NewMap1.NewMap1:PersistentLevel.BP_Lane_C_7
+	Function /Game/Blueprints/BP_Lane.BP_Lane_C:ExecuteUbergraph_BP_Lane:0015
+[2020.04.29-08.29.00:127][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property LaneSpawner". Blueprint:  BP_Lane Function:  Execute Ubergraph BP Lane Graph:  EventGraph Node:  Spawn Lane at Spawn Point
+[2020.04.29-08.29.00:127][448]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Lane_C_7 via property NewestLane, but BP_Lane_C_7 is pending kill". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.29.00:127][448]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.29.10:486][287]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.29.10:487][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.29.10:487][287]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.29.10:487][287]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.29.10:503][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-08.29.10:504][287]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.29.10:568][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.29.10:576][287]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.04.29-08.29.10:590][287]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.29-08.29.10:678][288]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.29-08.29.25:338][112]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.29.25:354][112]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.29.42:191][408]Cmd: SELECT NONE
+[2020.04.29-08.29.55:441][272]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Lane.BP_Lane
+[2020.04.29-08.30.04:027][616]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-08.30.04:038][616]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-08.30.04:057][616]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.30.05:035][640]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner
+[2020.04.29-08.30.48:486][683]LogSlate: Window 'BP_LaneSpawner' being destroyed
+[2020.04.29-08.30.48:495][683]LogSlate: Window 'BP_LaneSpawner' being destroyed
+[2020.04.29-08.30.48:514][683]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.30.49:748][718]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Lane.BP_Lane
+[2020.04.29-08.31.05:610][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.31.40:055][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.32.34:503][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.32.43:982][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.33.06:903][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.33.34:556][562]LogEditorTransaction: Undo Modify Component(s)
+[2020.04.29-08.34.28:036][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.34.28:106][719]BlueprintLog: New page: Compile BP_Lane
+[2020.04.29-08.34.28:670][719]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2020.04.29-08.34.33:589][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.34.33:633][918]BlueprintLog: New page: Compile BP_Lane
+[2020.04.29-08.34.34:094][918]LogUObjectHash: Compacting FUObjectHashTables data took   8.89ms
+[2020.04.29-08.34.49:240][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.34.49:289][541]BlueprintLog: New page: Compile BP_Lane
+[2020.04.29-08.34.49:784][541]LogUObjectHash: Compacting FUObjectHashTables data took   8.24ms
+[2020.04.29-08.34.53:263][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.34.53:364][683]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-08.34.53:376][683]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-08.34.53:443][683]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.35.18:077][425]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2020.04.29-08.35.18:079][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap1" FILE="../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/NewMap1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.29-08.35.18:567][425]LogSavePackage: Moving '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/NewMap1_Auto1D904DE7E406D6DAA72AE5DBAA967C8B2.tmp' to '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/NewMap1_Auto1.umap'
+[2020.04.29-08.35.18:575][425]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap1' took 0.562
+[2020.04.29-08.35.18:575][425]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.562
+[2020.04.29-08.35.18:578][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Lane] ([1] browsable assets)...
+[2020.04.29-08.35.18:602][425]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Lane.BP_Lane]
+[2020.04.29-08.35.18:603][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Lane]
+[2020.04.29-08.35.18:603][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Lane" FILE="../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/Blueprints/BP_Lane_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.29-08.35.18:709][425]LogSavePackage: Moving '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/BP_Lane_Auto1A1F839DB41FEE11451FB0BA44839625D.tmp' to '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/Blueprints/BP_Lane_Auto1.uasset'
+[2020.04.29-08.35.18:712][425]LogFileHelpers: Auto-saving content packages took 0.135
+[2020.04.29-08.35.24:760][768]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner
+[2020.04.29-08.36.00:326][471]LogSlate: Window 'BP_LaneSpawner' being destroyed
+[2020.04.29-08.36.00:334][471]LogSlate: Window 'BP_LaneSpawner' being destroyed
+[2020.04.29-08.36.00:335][471]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.36.09:091][927]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Lane.BP_Lane
+[2020.04.29-08.36.38:295][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.36.38:386][184]BlueprintLog: New page: Compile BP_Lane
+[2020.04.29-08.36.38:845][184]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2020.04.29-08.36.46:559][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.36.46:648][500]BlueprintLog: New page: Compile BP_Lane
+[2020.04.29-08.36.47:104][500]LogUObjectHash: Compacting FUObjectHashTables data took   8.35ms
+[2020.04.29-08.37.19:553][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.37.24:232][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.38.01:967][569]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-08.38.01:978][569]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-08.38.02:019][569]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.38.03:942][667]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Lane.BP_Lane
+[2020.04.29-08.38.12:429][  2]LogEditorTransaction: Undo Remove Components
+[2020.04.29-08.38.12:616][  7]LogEditorTransaction: Undo Add Component
+[2020.04.29-08.38.12:811][ 11]LogEditorTransaction: Undo Remove Components
+[2020.04.29-08.38.12:962][ 14]LogEditorTransaction: Undo Add Component
+[2020.04.29-08.38.13:130][ 20]LogEditorTransaction: Undo Remove Components
+[2020.04.29-08.38.13:324][ 26]LogEditorTransaction: Undo Modify Component(s)
+[2020.04.29-08.38.13:485][ 31]LogEditorTransaction: Undo Modify Component(s)
+[2020.04.29-08.38.28:624][667]LogEditorTransaction: Undo Add Component
+[2020.04.29-08.38.29:153][681]LogEditorTransaction: Undo Remove Components
+[2020.04.29-08.38.29:894][711]LogEditorTransaction: Undo Modify Component(s)
+[2020.04.29-08.38.32:484][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.38.46:974][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.38.53:483][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.39.17:074][518]LogEditorTransaction: Undo Modify Component(s)
+[2020.04.29-08.39.18:945][590]LogEditorTransaction: Undo Modify Component(s)
+[2020.04.29-08.39.19:358][608]LogEditorTransaction: Undo Modify Component(s)
+[2020.04.29-08.39.19:618][618]LogEditorTransaction: Undo Set Location
+[2020.04.29-08.39.19:856][626]LogEditorTransaction: Undo Set Location
+[2020.04.29-08.39.20:420][649]LogEditorTransaction: Undo Modify Component(s)
+[2020.04.29-08.39.23:816][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.39.45:298][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.40.18:602][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.29-08.40.19:001][ 19]LogEditorTransaction: Undo Add Component
+[2020.04.29-08.40.19:287][ 26]LogEditorTransaction: Undo Remove Components
+[2020.04.29-08.40.19:477][ 29]LogEditorTransaction: Undo Modify Component(s)
+[2020.04.29-08.40.31:993][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.40.32:081][540]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-08.40.32:093][540]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-08.40.32:137][540]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.40.36:047][710]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2020.04.29-08.40.38:585][710]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.29-08.40.38:597][710]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/BP_Lane.BP_Lane
+[2020.04.29-08.40.38:616][710]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_18, Actor: /Engine/Transient.World_18:PersistentLevel.BP_Lane_C_0
+[2020.04.29-08.40.39:743][710]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2020.04.29-08.40.40:252][710]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.04.29-08.40.40:315][710]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.04.29-08.40.40:374][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.04.29-08.40.56:444][917]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.29-08.41.03:551][131]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Lane.BP_Lane
+[2020.04.29-08.41.50:352][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.29-08.41.58:721][361]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.29-08.42.51:681][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.43.24:980][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.43.58:495][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.44.39:160][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.45.04:990][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.45.13:521][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.45.18:143][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.45.28:664][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.45.49:452][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.46.26:109][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.46.50:171][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.46.57:449][642]LogEditorTransaction: Undo Edit Y
+[2020.04.29-08.47.00:370][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.47.20:764][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.47.34:668][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.47.52:595][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.47.58:730][143]BlueprintLog: New page: Compile BP_Lane
+[2020.04.29-08.47.59:254][143]LogUObjectHash: Compacting FUObjectHashTables data took   9.64ms
+[2020.04.29-08.48.14:613][231]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-08.48.14:624][231]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-08.48.14:669][231]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.48.22:536][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.48.22:600][618]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-08.48.22:642][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.48.22:642][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-08.48.22:642][618]PIE: New page: PIE session: NewMap1 (Apr 28, 2020, 6:48:22 PM)
+[2020.04.29-08.48.22:642][618]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.48.22:647][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004979s)
+[2020.04.29-08.48.22:649][618]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.29-08.48.22:649][618]LogPlayLevel: PIE: World Init took: (0.001956s)
+[2020.04.29-08.48.22:649][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.007237s)
+[2020.04.29-08.48.22:709][618]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2020.04.29-08.48.22:731][618]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.29-08.48.22:768][618]LogInit: FAudioDevice initialized.
+[2020.04.29-08.48.22:777][618]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.29-08.48.22:779][618]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.29-01.48.22
+[2020.04.29-08.48.22:779][618]LogWorld: Bringing up level for play took: 0.001048
+[2020.04.29-08.48.22:780][618]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.04.29-08.48.22:784][618]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-08.48.22:784][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.48.22:785][618]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.48.22:785][618]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-08.48.22:785][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.48.22:785][618]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.48.22:785][618]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-08.48.22:785][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.48.22:785][618]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.48.22:786][618]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 -0.11
+[2020.04.29-08.48.22:786][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.48.24:488][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.48.24:488][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.48.24:489][744]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.48.24:489][744]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.48.24:505][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-08.48.24:506][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.48.24:576][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.48.24:584][744]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2020.04.29-08.48.24:671][745]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.04.29-08.48.25:694][797]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.48.25:705][797]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.48.54:582][305]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.04.29-08.48.57:959][490]LogEditorViewport: Clicking on Actor (LMB): BP_Lane_C (BP_Lane)
+[2020.04.29-08.49.00:425][629]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.29-08.49.02:120][719]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.04.29-08.49.03:309][788]LogEditorViewport: Clicking on Actor (LMB): BP_Lane_C (BP_Lane)
+[2020.04.29-08.49.04:535][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.49.04:620][864]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-08.49.04:664][864]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.49.04:664][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-08.49.04:664][864]PIE: New page: PIE session: NewMap1 (Apr 28, 2020, 6:49:04 PM)
+[2020.04.29-08.49.04:664][864]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.49.04:670][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005279s)
+[2020.04.29-08.49.04:671][864]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.29-08.49.04:672][864]LogPlayLevel: PIE: World Init took: (0.002078s)
+[2020.04.29-08.49.04:672][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.007659s)
+[2020.04.29-08.49.04:747][864]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2020.04.29-08.49.04:768][864]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.29-08.49.04:804][864]LogInit: FAudioDevice initialized.
+[2020.04.29-08.49.04:816][864]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.29-08.49.04:818][864]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.29-01.49.04
+[2020.04.29-08.49.04:818][864]LogWorld: Bringing up level for play took: 0.001188
+[2020.04.29-08.49.04:819][864]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.04.29-08.49.04:824][864]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-08.49.04:824][864]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.49.04:824][864]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.49.04:825][864]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-08.49.04:825][864]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.49.04:825][864]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.49.04:825][864]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-08.49.04:825][864]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.49.04:825][864]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.49.04:826][864]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 -0.071
+[2020.04.29-08.49.04:826][864]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.49.08:419][124]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.49.08:419][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.49.08:419][124]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.49.08:420][124]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.49.08:437][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-08.49.08:438][124]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.49.08:510][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.49.08:519][124]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2020.04.29-08.49.08:535][124]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.29-08.49.08:615][125]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.04.29-08.49.10:270][204]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.49.10:300][204]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.49.18:937][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.49.25:620][965]Cmd: SELECT NONE
+[2020.04.29-08.49.26:868][ 54]LogEditorViewport: Clicking on Actor (LMB): BP_Lane_C (BP_Lane)
+[2020.04.29-08.49.37:073][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.49.37:164][638]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-08.49.37:209][638]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.49.37:209][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-08.49.37:209][638]PIE: New page: PIE session: NewMap1 (Apr 28, 2020, 6:49:37 PM)
+[2020.04.29-08.49.37:209][638]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.49.37:214][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005087s)
+[2020.04.29-08.49.37:216][638]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.29-08.49.37:216][638]LogPlayLevel: PIE: World Init took: (0.001999s)
+[2020.04.29-08.49.37:216][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.007349s)
+[2020.04.29-08.49.37:271][638]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.04.29-08.49.37:291][638]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.29-08.49.37:328][638]LogInit: FAudioDevice initialized.
+[2020.04.29-08.49.37:344][638]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.29-08.49.37:346][638]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.29-01.49.37
+[2020.04.29-08.49.37:347][638]LogWorld: Bringing up level for play took: 0.001463
+[2020.04.29-08.49.37:347][638]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.04.29-08.49.37:352][638]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-08.49.37:352][638]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.49.37:352][638]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.49.37:352][638]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-08.49.37:352][638]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.49.37:352][638]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.49.37:352][638]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-08.49.37:353][638]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.49.37:353][638]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.49.37:353][638]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 0.457
+[2020.04.29-08.49.37:354][638]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.49.47:249][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.49.47:250][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.49.47:250][432]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.49.47:250][432]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.49.47:267][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-08.49.47:268][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.49.47:333][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.49.47:341][432]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.04.29-08.49.47:357][432]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.29-08.49.47:425][433]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.04.29-08.49.48:721][498]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.49.48:747][498]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.49.49:699][554]LogEditorViewport: Clicking on Actor (LMB): BP_Lane_C (BP_Lane)
+[2020.04.29-08.49.57:052][924]Cmd: SELECT NONE
+[2020.04.29-08.49.58:074][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.49.59:013][993]LogEditorViewport: Clicking on Actor (LMB): BP_Lane_C (BP_Lane)
+[2020.04.29-08.50.01:777][157]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.04.29-08.50.05:304][378]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.29-08.50.08:664][582]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.29-08.50.09:239][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.50.09:346][617]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-08.50.09:391][617]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.50.09:391][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-08.50.09:392][617]PIE: New page: PIE session: NewMap1 (Apr 28, 2020, 6:50:09 PM)
+[2020.04.29-08.50.09:392][617]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.50.09:397][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005549s)
+[2020.04.29-08.50.09:399][617]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.29-08.50.09:399][617]LogPlayLevel: PIE: World Init took: (0.001840s)
+[2020.04.29-08.50.09:399][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.007654s)
+[2020.04.29-08.50.09:472][617]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2020.04.29-08.50.09:493][617]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.29-08.50.09:532][617]LogInit: FAudioDevice initialized.
+[2020.04.29-08.50.09:545][617]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.29-08.50.09:547][617]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.29-01.50.09
+[2020.04.29-08.50.09:548][617]LogWorld: Bringing up level for play took: 0.001201
+[2020.04.29-08.50.09:548][617]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.04.29-08.50.09:552][617]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-08.50.09:552][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.50.09:553][617]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.50.09:553][617]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-08.50.09:553][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.50.09:553][617]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.50.09:553][617]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-08.50.09:553][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.50.09:553][617]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.50.09:554][617]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 0.657
+[2020.04.29-08.50.09:555][617]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.50.19:919][451]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.50.19:920][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.50.19:920][451]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.50.19:920][451]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.50.19:935][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-08.50.19:935][451]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.50.20:005][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.50.20:013][451]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2020.04.29-08.50.20:029][451]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.29-08.50.20:087][452]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.04.29-08.50.23:591][637]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.50.23:615][637]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.50.25:263][691]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Lane.BP_Lane
+[2020.04.29-08.50.48:217][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.51.10:677][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.51.33:477][641]BlueprintLog: New page: Compile BP_Lane
+[2020.04.29-08.51.33:941][641]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2020.04.29-08.51.34:573][660]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.29-08.51.35:298][682]Cmd: SELECT NONE
+[2020.04.29-08.51.36:066][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.51.36:138][717]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-08.51.36:152][717]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-08.51.36:153][717]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.51.37:435][797]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-08.51.37:479][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.51.37:479][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-08.51.37:479][797]PIE: New page: PIE session: NewMap1 (Apr 28, 2020, 6:51:37 PM)
+[2020.04.29-08.51.37:480][797]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.51.37:486][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005933s)
+[2020.04.29-08.51.37:487][797]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.29-08.51.37:488][797]LogPlayLevel: PIE: World Init took: (0.002182s)
+[2020.04.29-08.51.37:488][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.008466s)
+[2020.04.29-08.51.37:548][797]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2020.04.29-08.51.37:568][797]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.29-08.51.37:606][797]LogInit: FAudioDevice initialized.
+[2020.04.29-08.51.37:618][797]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.29-08.51.37:620][797]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.29-01.51.37
+[2020.04.29-08.51.37:621][797]LogWorld: Bringing up level for play took: 0.001175
+[2020.04.29-08.51.37:621][797]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.04.29-08.51.37:625][797]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-08.51.37:626][797]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.51.37:626][797]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.51.37:626][797]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-08.51.37:626][797]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.51.37:626][797]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.51.37:626][797]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-08.51.37:626][797]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.51.37:626][797]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-08.51.37:627][797]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 0.73
+[2020.04.29-08.51.37:627][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.51.54:892][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.51.54:894][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.51.54:894][213]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.29-08.51.54:894][213]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-08.51.54:907][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-08.51.54:909][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-08.51.54:972][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-08.51.54:980][213]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2020.04.29-08.51.54:995][213]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.29-08.51.55:056][214]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.04.29-08.51.56:240][273]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.51.56:265][273]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-08.51.59:239][441]Cmd: SELECT NONE
+[2020.04.29-08.52.05:928][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-08.52.43:291][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.04.29-08.52.43:293][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap1" FILE="../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/NewMap1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.29-08.52.43:825][723]LogSavePackage: Moving '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/NewMap1_Auto2D8EBAEB144F21E8080618E9FDB3D2694.tmp' to '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/NewMap1_Auto2.umap'
+[2020.04.29-08.52.43:834][723]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap1' took 0.601
+[2020.04.29-08.52.43:834][723]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.601
+[2020.04.29-08.52.43:837][723]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_LaneSpawner] ([1] browsable assets)...
+[2020.04.29-08.52.43:837][723]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_LaneSpawner]
+[2020.04.29-08.52.43:987][723]LogSavePackage: Moving '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/BP_LaneSpawner_Auto2CACFD29246AE7BA12855EBAD181F3155.tmp' to '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/Blueprints/BP_LaneSpawner_Auto2.uasset'
+[2020.04.29-08.52.43:993][723]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Lane] ([1] browsable assets)...
+[2020.04.29-08.52.44:026][723]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Lane.BP_Lane]
+[2020.04.29-08.52.44:026][723]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Lane]
+[2020.04.29-08.52.44:026][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Lane" FILE="../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/Blueprints/BP_Lane_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.04.29-08.52.44:086][723]LogSavePackage: Moving '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/BP_Lane_Auto24022D84846DD98A300BBC6B37B008881.tmp' to '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/Blueprints/BP_Lane_Auto2.uasset'
+[2020.04.29-08.52.44:089][723]LogFileHelpers: Auto-saving content packages took 0.253
+[2020.04.29-09.52.14:958][772]LogEditorViewport: Clicking on Actor (context menu): BP_Lane_C (BP_Lane)
+[2020.04.29-09.52.15:037][772]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.29-09.52.16:046][822]LogEditorViewport: Clicking on Actor (LMB): BP_Lane_C (BP_Lane)
+[2020.04.29-09.52.16:796][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-09.52.21:708][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-09.52.21:808][ 84]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-09.52.21:856][ 84]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-09.52.21:856][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-09.52.21:856][ 84]PIE: New page: PIE session: NewMap1 (Apr 28, 2020, 7:52:21 PM)
+[2020.04.29-09.52.21:857][ 84]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap1
+[2020.04.29-09.52.21:865][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008341s)
+[2020.04.29-09.52.21:867][ 84]LogAIModule: Creating AISystem for world NewMap1
+[2020.04.29-09.52.21:868][ 84]LogPlayLevel: PIE: World Init took: (0.002383s)
+[2020.04.29-09.52.21:868][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap1.NewMap1 to /Game/UEDPIE_0_NewMap1.NewMap1 (0.011095s)
+[2020.04.29-09.52.21:945][ 84]LogUObjectHash: Compacting FUObjectHashTables data took  10.84ms
+[2020.04.29-09.52.21:968][ 84]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.29-09.52.22:010][ 84]LogInit: FAudioDevice initialized.
+[2020.04.29-09.52.22:029][ 84]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.04.29-09.52.22:031][ 84]LogWorld: Bringing World /Game/UEDPIE_0_NewMap1.NewMap1 up for play (max tick rate 0) at 2020.04.29-02.52.22
+[2020.04.29-09.52.22:031][ 84]LogWorld: Bringing up level for play took: 0.001431
+[2020.04.29-09.52.22:032][ 84]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.04.29-09.52.22:036][ 84]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-09.52.22:037][ 84]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-09.52.22:037][ 84]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-09.52.22:037][ 84]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-09.52.22:037][ 84]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-09.52.22:037][ 84]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-09.52.22:037][ 84]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.04.29-09.52.22:037][ 84]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NewestLane". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-09.52.22:038][ 84]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_LaneSpawner Function:  Spawn Lane Graph:  SpawnLane Node:  Set LaneSpawner
+[2020.04.29-09.52.22:038][ 84]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap1 1.142
+[2020.04.29-09.52.22:039][ 84]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-09.52.26:615][423]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-09.52.26:616][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-09.52.26:616][423]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap1
+[2020.04.29-09.52.26:616][423]LogWorld: UWorld::CleanupWorld for NewMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-09.52.26:635][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-09.52.26:635][423]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap1.NewMap1:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1' with GeneratedClass '/Game/NewMap1.NewMap1_C' with ClassGeneratedBy '/Game/NewMap1.NewMap1:PersistentLevel.NewMap1'
+[2020.04.29-09.52.26:701][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-09.52.26:708][423]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.04.29-09.52.26:724][423]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.29-09.52.26:805][424]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.04.29-09.52.27:960][480]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-09.52.27:985][480]LogSlate: Window 'Message Log' being destroyed
+[2020.04.29-09.52.32:641][705]LogEditorViewport: Clicking on Actor (LMB): BP_Lane_C (BP_Lane)
+[2020.04.29-09.52.34:434][795]LogEditorViewport: Clicking on Actor (LMB): BP_Lane_C (BP_Lane)
+[2020.04.29-09.52.34:928][819]LogEditorViewport: Clicking on Actor (LMB): BP_PoliceCar_C (BP_PoliceCar)
+[2020.04.29-09.52.36:358][893]Cmd: DELETE
+[2020.04.29-09.52.36:358][893]Cmd: ACTOR DELETE
+[2020.04.29-09.52.36:363][893]LogEditorActor: Deleted Actor: BP_PoliceCar_C
+[2020.04.29-09.52.36:429][893]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.04.29-09.52.36:429][893]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2020.04.29-09.52.50:367][  3]LogRenderer: Reallocating scene render targets to support 1096x488 Format 10 NumSamples 1 (Frame:65776).
+[2020.04.29-09.53.07:224][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-09.53.08:216][373]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner
+[2020.04.29-09.53.09:252][374]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.29-09.53.10:320][374]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.067 s
+[2020.04.29-09.53.10:320][374]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.29-09.53.10:320][374]LogOutputDevice: Error: 
+[2020.04.29-09.53.10:320][374]LogOutputDevice: Error: Ensure condition failed: Class != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/PropertyEditor/Private/UserInterface/PropertyEditor/SPropertyEditorAsset.cpp] [Line: 1291]
+[2020.04.29-09.53.10:320][374]LogOutputDevice: Error: Property (ObjectProperty /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner_C:NewestLane) is not an object or interface class
+[2020.04.29-09.53.10:320][374]LogOutputDevice: Error: Stack: 
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86afc3c7c UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86ae3c75e UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86acbb2c7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86ad228a7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86ad2013f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86abb8c90 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86ac17e12 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86ac0a89c UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86ac0a75f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86ae3413a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86abb6aeb UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86abf598e UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86aeae24c UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86ae72dd3 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86ae85580 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86ae86d0b UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86aec67bf UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff873a31ba6 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff86aedd95a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969a91 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:321][374]LogOutputDevice: Error: [Callstack] 0x00007ff871967c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff8739df4a9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff871967c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff8739df27e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff871967c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff871967c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff8739df27e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff871967c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff8739e3f64 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-09.53.10:322][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871967c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871967c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871967c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff8739df27e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871967c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff8739e3f64 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871967c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:323][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:324][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:324][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:324][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:324][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:324][374]LogOutputDevice: Error: [Callstack] 0x00007ff871967c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:324][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196872a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:324][374]LogOutputDevice: Error: [Callstack] 0x00007ff871969db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:324][374]LogOutputDevice: Error: [Callstack] 0x00007ff87196a75e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.29-09.53.10:324][374]LogOutputDevice: Error: [Callstack] 0x00007ff8737d39e6 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-09.53.10:324][374]LogOutputDevice: Error: 
+[2020.04.29-09.53.10:328][374]LogStats:                SubmitErrorReport -  0.000 s
+[2020.04.29-09.53.11:812][374]LogStats:                    SendNewReport -  1.485 s
+[2020.04.29-09.53.11:812][374]LogStats:             FDebug::EnsureFailed -  2.560 s
+[2020.04.29-09.53.11:870][375]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Lane.BP_Lane
+[2020.04.29-09.53.45:690][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-09.54.06:975][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-09.54.11:256][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-09.54.11:325][780]BlueprintLog: New page: Compile BP_Lane
+[2020.04.29-09.54.11:821][780]LogUObjectHash: Compacting FUObjectHashTables data took   8.24ms
+[2020.04.29-09.54.12:551][808]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-09.54.12:571][808]LogSlate: Window 'BP_Lane' being destroyed
+[2020.04.29-09.54.12:644][808]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-09.54.12:771][808]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.29-09.54.12:771][808]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-09.54.38:338][952]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2020.04.29-09.54.38:342][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap1" FILE="../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/NewMap1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.29-09.54.38:868][952]LogSavePackage: Moving '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/NewMap1_Auto3095D0A6A415472FAAB32D4A9D8850181.tmp' to '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/NewMap1_Auto3.umap'
+[2020.04.29-09.54.38:878][952]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap1' took 0.606
+[2020.04.29-09.54.38:878][952]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.606
+[2020.04.29-09.54.38:881][952]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Lane] ([1] browsable assets)...
+[2020.04.29-09.54.38:915][952]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Lane.BP_Lane]
+[2020.04.29-09.54.38:916][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Lane]
+[2020.04.29-09.54.38:916][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Lane" FILE="../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/Blueprints/BP_Lane_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.04.29-09.54.38:969][952]LogSavePackage: Moving '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/BP_Lane_Auto3C69078EF4A9EB3562DCF9ABCDD2087E3.tmp' to '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/Blueprints/BP_Lane_Auto3.uasset'
+[2020.04.29-09.54.38:972][952]LogFileHelpers: Auto-saving content packages took 0.091
+[2020.04.29-10.29.43:749][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-10.29.46:951][259]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner
+[2020.04.29-10.29.57:521][672]LogUObjectArray: Warning: Invalid object index 7602286
+[2020.04.29-10.29.57:525][672]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.29-10.29.57:534][672]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.009 s
+[2020.04.29-10.29.57:534][672]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.29-10.29.57:534][672]LogOutputDevice: Error: 
+[2020.04.29-10.29.57:534][672]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2020.04.29-10.29.57:534][672]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.29-10.29.57:534][672]LogOutputDevice: Error: Stack: 
+[2020.04.29-10.29.57:534][672]LogOutputDevice: Error: [Callstack] 0x00007ff8707041e9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.29-10.29.57:534][672]LogOutputDevice: Error: [Callstack] 0x00007ff86ff27d9a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.29-10.29.57:534][672]LogOutputDevice: Error: [Callstack] 0x00007ff86ff35fff UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.29-10.29.57:534][672]LogOutputDevice: Error: [Callstack] 0x00007ff86e816c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.29-10.29.57:534][672]LogOutputDevice: Error: [Callstack] 0x00007ff86a8d4dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.29-10.29.57:534][672]LogOutputDevice: Error: [Callstack] 0x00007ff86a88e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.29-10.29.57:534][672]LogOutputDevice: Error: [Callstack] 0x00007ff8737dd644 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-10.29.57:534][672]LogOutputDevice: Error: [Callstack] 0x00007ff8739cc533 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-10.29.57:534][672]LogOutputDevice: Error: [Callstack] 0x00007ff87382922b UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-10.29.57:534][672]LogOutputDevice: Error: [Callstack] 0x00007ff873805738 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-10.29.57:535][672]LogOutputDevice: Error: [Callstack] 0x00007ff8737f9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-10.29.57:535][672]LogOutputDevice: Error: [Callstack] 0x00007ff8b30d4c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.29-10.29.57:535][672]LogOutputDevice: Error: [Callstack] 0x00007ff8b30c26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.29-10.29.57:535][672]LogOutputDevice: Error: [Callstack] 0x00007ff8b30d7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.29-10.29.57:535][672]LogOutputDevice: Error: [Callstack] 0x00007ff8b30bedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.29-10.29.57:535][672]LogOutputDevice: Error: [Callstack] 0x00007ff8cbe85c0d USER32.dll!UnknownFunction []
+[2020.04.29-10.29.57:535][672]LogOutputDevice: Error: [Callstack] 0x00007ff8cbe85602 USER32.dll!UnknownFunction []
+[2020.04.29-10.29.57:535][672]LogOutputDevice: Error: [Callstack] 0x00007ff8b30d88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.29-10.29.57:535][672]LogOutputDevice: Error: [Callstack] 0x00007ff6c81a6980 UE4Editor.exe!UnknownFunction []
+[2020.04.29-10.29.57:535][672]LogOutputDevice: Error: [Callstack] 0x00007ff6c81ba91c UE4Editor.exe!UnknownFunction []
+[2020.04.29-10.29.57:535][672]LogOutputDevice: Error: [Callstack] 0x00007ff6c81ba9fa UE4Editor.exe!UnknownFunction []
+[2020.04.29-10.29.57:535][672]LogOutputDevice: Error: [Callstack] 0x00007ff6c81cb92c UE4Editor.exe!UnknownFunction []
+[2020.04.29-10.29.57:535][672]LogOutputDevice: Error: [Callstack] 0x00007ff6c81ce60e UE4Editor.exe!UnknownFunction []
+[2020.04.29-10.29.57:535][672]LogOutputDevice: Error: [Callstack] 0x00007ff8cbaf7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.29-10.29.57:535][672]LogOutputDevice: Error: [Callstack] 0x00007ff8cc4ace51 ntdll.dll!UnknownFunction []
+[2020.04.29-10.29.57:535][672]LogOutputDevice: Error: 
+[2020.04.29-10.29.57:542][672]LogStats:                SubmitErrorReport -  0.000 s
