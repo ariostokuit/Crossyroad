@@ -1211,3 +1211,265 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.08-07.46.00:239][605]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.08-07.46.00:239][605]LogContentValidation: Display: Validating World /Game/Maps/CrossyRoads.CrossyRoads
 [2020.05.08-07.46.00:239][605]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CrossyRoads_BuiltData.CrossyRoads_BuiltData
+[2020.05.08-07.56.00:285][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.05.08-07.56.00:288][580]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CrossyRoads' took 0.065
+[2020.05.08-07.56.00:289][580]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Entities/chicken_assets/BP_Player] ([1] browsable assets)...
+[2020.05.08-07.56.00:329][580]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Entities/chicken_assets/BP_Player.BP_Player]
+[2020.05.08-07.56.00:329][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Entities/chicken_assets/BP_Player]
+[2020.05.08-07.56.00:525][580]LogSavePackage: Moving '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/BP_Player_Auto5AF5D69374515B82E9E5930A7FBBB129D.tmp' to '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/Blueprints/Entities/chicken_assets/BP_Player_Auto5.uasset'
+[2020.05.08-07.56.00:529][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/UI/WPB_HUD] ([1] browsable assets)...
+[2020.05.08-07.56.00:529][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WPB_HUD]
+[2020.05.08-07.56.00:529][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WPB_HUD" FILE="../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/Blueprints/UI/WPB_HUD_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.05.08-07.56.00:665][580]LogSavePackage: Moving '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/WPB_HUD_Auto52B23C27344B1783B46B2AC8BC1D6E77F.tmp' to '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/Blueprints/UI/WPB_HUD_Auto5.uasset'
+[2020.05.08-07.56.00:669][580]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Entities/vehicle_assets/BP_Truck2] ([1] browsable assets)...
+[2020.05.08-07.56.00:695][580]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Entities/vehicle_assets/BP_Truck2.BP_Truck2]
+[2020.05.08-07.56.00:696][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Entities/vehicle_assets/BP_Truck2]
+[2020.05.08-07.56.00:819][580]LogSavePackage: Moving '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/BP_Truck2_Auto564E616B148BCC3D21248289468A5DBC8.tmp' to '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/Autosaves/Game/Blueprints/Entities/vehicle_assets/BP_Truck2_Auto5.uasset'
+[2020.05.08-07.56.00:823][580]LogFileHelpers: Auto-saving content packages took 0.534
+[2020.05.08-07.58.22:137][  1]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.08-07.58.31:348][170]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Ariosto/Documents/Sound recordings/carSound.wav)
+[2020.05.08-07.58.31:354][170]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave carSound...
+[2020.05.08-07.58.31:354][170]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Blueprints/Audio/carSound.carSound will be modified from 40 to 40.
+[2020.05.08-07.58.31:428][170]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 260096 while cooking SoundWave /Game/Blueprints/Audio/carSound.carSound.
+[2020.05.08-07.58.48:219][134]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Blueprints/Audio/carSound_Cue.carSound_Cue
+[2020.05.08-07.59.00:248][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Audio/carSound_Cue" FILE="../../../../../../Users/Ariosto/Desktop/Crossyroad/Content/Blueprints/Audio/carSound_Cue.uasset" SILENT=true
+[2020.05.08-07.59.00:275][655]LogSavePackage: Moving '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/carSound_Cue38293B9E44A820BCE0F717B532B3DD4F.tmp' to '../../../../../../Users/Ariosto/Desktop/Crossyroad/Content/Blueprints/Audio/carSound_Cue.uasset'
+[2020.05.08-07.59.00:305][655]AssetCheck: New page: Asset Save: carSound_Cue
+[2020.05.08-07.59.00:305][655]LogContentValidation: Display: Validating SoundCue /Game/Blueprints/Audio/carSound_Cue.carSound_Cue
+[2020.05.08-07.59.19:434][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Audio/carSound_Cue" FILE="../../../../../../Users/Ariosto/Desktop/Crossyroad/Content/Blueprints/Audio/carSound_Cue.uasset" SILENT=true
+[2020.05.08-07.59.19:511][533]LogSavePackage: Moving '../../../../../../Users/Ariosto/Desktop/Crossyroad/Saved/carSound_CueC3A2AF684D9F51AE43CD08868CA78B39.tmp' to '../../../../../../Users/Ariosto/Desktop/Crossyroad/Content/Blueprints/Audio/carSound_Cue.uasset'
+[2020.05.08-07.59.19:547][533]AssetCheck: New page: Asset Save: carSound_Cue
+[2020.05.08-07.59.19:547][533]LogContentValidation: Display: Validating SoundCue /Game/Blueprints/Audio/carSound_Cue.carSound_Cue
+[2020.05.08-07.59.24:397][697]LogSlate: Window 'carSound_Cue' being destroyed
+[2020.05.08-07.59.24:410][697]LogSlate: Window 'carSound_Cue' being destroyed
+[2020.05.08-07.59.34:247][ 44]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Entities/vehicle_assets/BP_Truck.BP_Truck
+[2020.05.08-07.59.59:458][ 13]BlueprintLog: New page: Compile BP_Truck
+[2020.05.08-08.00.00:000][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   7.88ms
+[2020.05.08-08.00.01:375][ 73]LogSlate: Window 'BP_Truck' being destroyed
+[2020.05.08-08.00.01:386][ 73]LogSlate: Window 'BP_Truck' being destroyed
+[2020.05.08-08.00.01:414][ 73]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-08.00.01:414][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-08.00.02:894][133]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Entities/vehicle_assets/BP_Truck2.BP_Truck2
+[2020.05.08-08.00.39:655][303]BlueprintLog: New page: Compile BP_Truck2
+[2020.05.08-08.00.40:218][303]LogUObjectHash: Compacting FUObjectHashTables data took   8.96ms
+[2020.05.08-08.00.42:092][362]LogSlate: Window 'BP_Truck2' being destroyed
+[2020.05.08-08.00.42:102][362]LogSlate: Window 'BP_Truck2' being destroyed
+[2020.05.08-08.00.42:104][362]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-08.00.42:104][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-08.00.44:556][470]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-08.00.44:605][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-08.00.44:606][470]PIE: New page: PIE session: CrossyRoads (May 7, 2020, 6:00:44 PM)
+[2020.05.08-08.00.44:606][470]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CrossyRoads
+[2020.05.08-08.00.44:616][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010592s)
+[2020.05.08-08.00.44:618][470]LogAIModule: Creating AISystem for world CrossyRoads
+[2020.05.08-08.00.44:618][470]LogPlayLevel: PIE: World Init took: (0.001927s)
+[2020.05.08-08.00.44:618][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CrossyRoads.CrossyRoads to /Game/Maps/UEDPIE_0_CrossyRoads.CrossyRoads (0.012784s)
+[2020.05.08-08.00.44:682][470]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2020.05.08-08.00.44:684][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-08.00.44:684][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-08.00.44:684][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.05.08-08.00.44:684][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.05.08-08.00.44:684][470]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.05.08-08.00.44:684][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-08.00.44:684][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-08.00.44:684][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-08.00.44:685][470]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-08.00.44:685][470]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-08.00.44:705][470]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-08.00.44:705][470]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.05.08-08.00.44:705][470]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-08.00.44:705][470]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.08-08.00.44:705][470]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-08.00.44:705][470]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-08.00.44:705][470]LogAudioMixer: Display: Channel Order:
+[2020.05.08-08.00.44:705][470]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-08.00.44:705][470]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-08.00.44:747][470]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.05.08-08.00.44:750][470]LogInit: FAudioDevice initialized.
+[2020.05.08-08.00.44:765][470]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.05.08-08.00.44:773][470]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CrossyRoads.CrossyRoads up for play (max tick rate 0) at 2020.05.08-01.00.44
+[2020.05.08-08.00.44:774][470]LogWorld: Bringing up level for play took: 0.007865
+[2020.05.08-08.00.44:775][470]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.05.08-08.00.44:795][470]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CrossyRoads 0.946
+[2020.05.08-08.00.56:393][ 25]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-08.00.56:401][ 25]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-08.00.56:411][ 25]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-08.00.56:411][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-08.00.56:412][ 25]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CrossyRoads
+[2020.05.08-08.00.56:412][ 25]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-08.00.56:412][ 25]LogWorld: UWorld::CleanupWorld for CrossyRoads, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-08.00.56:414][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-08.00.56:427][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-08.00.56:436][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-08.00.56:492][ 25]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-08.00.56:498][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-08.00.56:506][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2020.05.08-08.00.56:542][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.05.08-08.00.57:614][ 57]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Entities/vehicle_assets/BP_Truck2.BP_Truck2
+[2020.05.08-08.01.12:889][641]BlueprintLog: New page: Compile BP_Truck2
+[2020.05.08-08.01.13:434][641]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2020.05.08-08.01.15:964][739]LogSlate: Window 'BP_Truck2' being destroyed
+[2020.05.08-08.01.15:992][739]LogSlate: Window 'BP_Truck2' being destroyed
+[2020.05.08-08.01.15:993][739]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-08.01.15:993][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-08.01.17:576][798]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-08.01.17:625][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-08.01.17:626][798]PIE: New page: PIE session: CrossyRoads (May 7, 2020, 6:01:17 PM)
+[2020.05.08-08.01.17:626][798]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CrossyRoads
+[2020.05.08-08.01.17:637][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010744s)
+[2020.05.08-08.01.17:638][798]LogAIModule: Creating AISystem for world CrossyRoads
+[2020.05.08-08.01.17:639][798]LogPlayLevel: PIE: World Init took: (0.001809s)
+[2020.05.08-08.01.17:639][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CrossyRoads.CrossyRoads to /Game/Maps/UEDPIE_0_CrossyRoads.CrossyRoads (0.012824s)
+[2020.05.08-08.01.17:700][798]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2020.05.08-08.01.17:702][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-08.01.17:702][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-08.01.17:702][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.05.08-08.01.17:702][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.05.08-08.01.17:702][798]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.05.08-08.01.17:702][798]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-08.01.17:702][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-08.01.17:702][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-08.01.17:703][798]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-08.01.17:703][798]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-08.01.17:723][798]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-08.01.17:723][798]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.05.08-08.01.17:724][798]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-08.01.17:724][798]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.08-08.01.17:724][798]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-08.01.17:724][798]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-08.01.17:724][798]LogAudioMixer: Display: Channel Order:
+[2020.05.08-08.01.17:724][798]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-08.01.17:724][798]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-08.01.17:762][798]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.05.08-08.01.17:765][798]LogInit: FAudioDevice initialized.
+[2020.05.08-08.01.17:776][798]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.05.08-08.01.17:785][798]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CrossyRoads.CrossyRoads up for play (max tick rate 0) at 2020.05.08-01.01.17
+[2020.05.08-08.01.17:785][798]LogWorld: Bringing up level for play took: 0.008242
+[2020.05.08-08.01.17:786][798]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.05.08-08.01.17:804][798]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CrossyRoads -0.046
+[2020.05.08-08.01.25:844][181]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-08.01.25:851][181]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-08.01.25:861][181]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-08.01.25:861][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-08.01.25:862][181]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CrossyRoads
+[2020.05.08-08.01.25:862][181]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-08.01.25:862][181]LogWorld: UWorld::CleanupWorld for CrossyRoads, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-08.01.25:864][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-08.01.25:881][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-08.01.25:890][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-08.01.25:942][181]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-08.01.25:948][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-08.01.25:958][181]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2020.05.08-08.01.26:002][182]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.05.08-08.01.26:926][206]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Entities/vehicle_assets/BP_Truck.BP_Truck
+[2020.05.08-08.01.34:041][434]BlueprintLog: New page: Compile BP_Truck
+[2020.05.08-08.01.34:597][434]LogUObjectHash: Compacting FUObjectHashTables data took   7.81ms
+[2020.05.08-08.01.36:743][507]LogSlate: Window 'BP_Truck' being destroyed
+[2020.05.08-08.01.36:755][507]LogSlate: Window 'BP_Truck' being destroyed
+[2020.05.08-08.01.36:756][507]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-08.01.36:756][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-08.01.37:275][525]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.08-08.01.39:431][607]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-08.01.39:482][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-08.01.39:482][607]PIE: New page: PIE session: CrossyRoads (May 7, 2020, 6:01:39 PM)
+[2020.05.08-08.01.39:482][607]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CrossyRoads
+[2020.05.08-08.01.39:493][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010982s)
+[2020.05.08-08.01.39:495][607]LogAIModule: Creating AISystem for world CrossyRoads
+[2020.05.08-08.01.39:495][607]LogPlayLevel: PIE: World Init took: (0.001949s)
+[2020.05.08-08.01.39:495][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CrossyRoads.CrossyRoads to /Game/Maps/UEDPIE_0_CrossyRoads.CrossyRoads (0.013199s)
+[2020.05.08-08.01.39:559][607]LogUObjectHash: Compacting FUObjectHashTables data took   7.81ms
+[2020.05.08-08.01.39:562][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-08.01.39:562][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-08.01.39:562][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.05.08-08.01.39:562][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.05.08-08.01.39:562][607]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.05.08-08.01.39:562][607]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-08.01.39:562][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-08.01.39:562][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-08.01.39:563][607]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-08.01.39:563][607]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-08.01.39:582][607]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-08.01.39:582][607]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.05.08-08.01.39:582][607]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-08.01.39:582][607]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.08-08.01.39:582][607]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-08.01.39:582][607]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-08.01.39:582][607]LogAudioMixer: Display: Channel Order:
+[2020.05.08-08.01.39:582][607]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-08.01.39:582][607]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-08.01.39:618][607]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.05.08-08.01.39:621][607]LogInit: FAudioDevice initialized.
+[2020.05.08-08.01.39:635][607]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.05.08-08.01.39:644][607]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CrossyRoads.CrossyRoads up for play (max tick rate 0) at 2020.05.08-01.01.39
+[2020.05.08-08.01.39:645][607]LogWorld: Bringing up level for play took: 0.008574
+[2020.05.08-08.01.39:645][607]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.05.08-08.01.39:662][607]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CrossyRoads -0.186
+[2020.05.08-08.01.47:121][965]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-08.01.47:121][965]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-08.01.47:121][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-08.01.47:121][965]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CrossyRoads
+[2020.05.08-08.01.47:121][965]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-08.01.47:121][965]LogWorld: UWorld::CleanupWorld for CrossyRoads, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-08.01.47:122][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-08.01.47:153][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-08.01.47:160][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-08.01.47:209][965]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-08.01.47:214][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-08.01.47:220][965]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.05.08-08.01.47:249][966]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.05.08-08.01.56:022][152]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Entities/vehicle_assets/BP_Truck.BP_Truck
+[2020.05.08-08.02.39:888][805]BlueprintLog: New page: Compile BP_Truck
+[2020.05.08-08.02.40:442][805]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2020.05.08-08.02.41:646][852]LogSlate: Window 'BP_Truck' being destroyed
+[2020.05.08-08.02.41:675][852]LogSlate: Window 'BP_Truck' being destroyed
+[2020.05.08-08.02.41:677][852]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-08.02.41:677][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-08.02.43:265][916]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-08.02.43:314][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-08.02.43:314][916]PIE: New page: PIE session: CrossyRoads (May 7, 2020, 6:02:43 PM)
+[2020.05.08-08.02.43:314][916]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CrossyRoads
+[2020.05.08-08.02.43:325][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010839s)
+[2020.05.08-08.02.43:326][916]LogAIModule: Creating AISystem for world CrossyRoads
+[2020.05.08-08.02.43:327][916]LogPlayLevel: PIE: World Init took: (0.001819s)
+[2020.05.08-08.02.43:327][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CrossyRoads.CrossyRoads to /Game/Maps/UEDPIE_0_CrossyRoads.CrossyRoads (0.012922s)
+[2020.05.08-08.02.43:385][916]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2020.05.08-08.02.43:386][916]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-08.02.43:386][916]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-08.02.43:388][916]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.05.08-08.02.43:388][916]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.05.08-08.02.43:388][916]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.05.08-08.02.43:388][916]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-08.02.43:388][916]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-08.02.43:388][916]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-08.02.43:388][916]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-08.02.43:388][916]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-08.02.43:407][916]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-08.02.43:407][916]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.05.08-08.02.43:407][916]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-08.02.43:407][916]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.08-08.02.43:407][916]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-08.02.43:407][916]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-08.02.43:407][916]LogAudioMixer: Display: Channel Order:
+[2020.05.08-08.02.43:408][916]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-08.02.43:408][916]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-08.02.43:445][916]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.05.08-08.02.43:448][916]LogInit: FAudioDevice initialized.
+[2020.05.08-08.02.43:461][916]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.05.08-08.02.43:469][916]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CrossyRoads.CrossyRoads up for play (max tick rate 0) at 2020.05.08-01.02.43
+[2020.05.08-08.02.43:469][916]LogWorld: Bringing up level for play took: 0.007457
+[2020.05.08-08.02.43:469][916]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.05.08-08.02.43:486][916]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CrossyRoads -0.363
+[2020.05.08-08.02.56:032][570]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-08.02.56:041][570]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-08.02.56:051][570]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-08.02.56:051][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-08.02.56:051][570]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CrossyRoads
+[2020.05.08-08.02.56:051][570]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-08.02.56:052][570]LogWorld: UWorld::CleanupWorld for CrossyRoads, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-08.02.56:054][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-08.02.56:070][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-08.02.56:079][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-08.02.56:136][570]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-08.02.56:141][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-08.02.56:150][570]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2020.05.08-08.02.56:187][571]LogPlayLevel: Display: Destroying online subsystem :Context_37
