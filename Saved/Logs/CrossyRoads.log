@@ -606,3 +606,63 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.14-22.56.59:516][  0]LogSlate: Took 0.019768 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.05.14-22.57.00:643][ 18]LogAssetRegistry: Asset discovery search completed in 43.5995 seconds
 [2020.05.14-22.57.00:658][ 18]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000016 seconds (updated 0 objects)
+[2020.05.14-22.57.41:947][409]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-22.57.41:965][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-22.57.42:016][409]PIE: New page: PIE session: CrossyRoads (May 14, 2020, 8:57:41 AM)
+[2020.05.14-22.57.42:051][409]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.14-22.57.42:062][409]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.14-22.57.42:062][409]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CrossyRoads
+[2020.05.14-22.57.42:067][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004721s)
+[2020.05.14-22.57.42:068][409]LogAIModule: Creating AISystem for world CrossyRoads
+[2020.05.14-22.57.42:068][409]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2020.05.14-22.57.42:068][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CrossyRoads.CrossyRoads to /Game/Maps/UEDPIE_0_CrossyRoads.CrossyRoads (0.006096s)
+[2020.05.14-22.57.42:089][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.05.14-22.57.42:097][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.14-22.57.42:097][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.14-22.57.42:097][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.05.14-22.57.42:097][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.05.14-22.57.42:097][409]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.05.14-22.57.42:097][409]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.14-22.57.42:098][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.14-22.57.42:098][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.14-22.57.42:098][409]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.14-22.57.42:098][409]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.14-22.57.42:148][409]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.14-22.57.42:148][409]LogAudioMixer: Display: Name: Speakers (3- USB PnP Sound Device)
+[2020.05.14-22.57.42:148][409]LogAudioMixer: Display: Is Default: Yes
+[2020.05.14-22.57.42:148][409]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.14-22.57.42:148][409]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.14-22.57.42:148][409]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.14-22.57.42:148][409]LogAudioMixer: Display: Channel Order:
+[2020.05.14-22.57.42:148][409]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.14-22.57.42:148][409]LogAudioMixer: Display: 1: FrontRight
+[2020.05.14-22.57.42:165][409]LogAudioMixer: Display: Using Audio Device Speakers (3- USB PnP Sound Device)
+[2020.05.14-22.57.42:167][409]LogInit: FAudioDevice initialized.
+[2020.05.14-22.57.42:179][409]LogLoad: Game class is 'GM_CrossyRoad_C'
+[2020.05.14-22.57.42:204][409]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CrossyRoads.CrossyRoads up for play (max tick rate 0) at 2020.05.14-15.57.42
+[2020.05.14-22.57.42:212][409]LogWorld: Bringing up level for play took: 0.011430
+[2020.05.14-22.57.42:212][409]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.05.14-22.57.42:284][409]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.05.14-22.57.42:405][409]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CrossyRoads 1.207
+[2020.05.14-22.57.46:581][868]LogBlueprintUserMessages: [BP_Player_C_0] DEATH
+[2020.05.14-22.57.47:040][923]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.14-22.57.47:048][923]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.14-22.57.47:058][923]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.14-22.57.47:059][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-22.57.47:059][923]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CrossyRoads
+[2020.05.14-22.57.47:059][923]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.14-22.57.47:071][923]LogWorld: UWorld::CleanupWorld for CrossyRoads, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-22.57.47:072][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-22.57.47:078][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-22.57.47:081][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-22.57.47:112][923]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.14-22.57.47:115][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-22.57.47:129][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.05.14-22.57.47:144][924]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.05.14-22.58.25:902][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.05.14-22.58.25:996][147]LogSlate: Window 'CrossyRoads - Unreal Editor' being destroyed
+[2020.05.14-22.58.25:999][147]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2020.05.14-22.58.26:193][148]Cmd: QUIT_EDITOR
+[2020.05.14-22.58.26:193][148]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.05.14-22.58.26:215][148]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.14-22.58.26:223][148]LogAudioMixer: Display: No commands were queued while flushing the source manager.
