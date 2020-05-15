@@ -1,0 +1,1028 @@
+﻿Log file open, 05/14/20 16:00:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CrossyRoads
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.062284
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU:        Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 780
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.14-23.00.01:308][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.14-23.00.01:308][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.14-23.00.01:308][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Engine.ini]
+[2020.05.14-23.00.01:308][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.14-23.00.01:308][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.05.14-23.00.01:308][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Engine.ini]
+[2020.05.14-23.00.01:308][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Engine.ini]
+[2020.05.14-23.00.01:308][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.14-23.00.01:308][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.14-23.00.01:308][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.14-23.00.01:308][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.14-23.00.01:308][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.14-23.00.01:308][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.14-23.00.01:308][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Engine.ini]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.14-23.00.01:309][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Engine.ini]
+[2020.05.14-23.00.01:309][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Engine.ini]
+[2020.05.14-23.00.01:311][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.14-23.00.01:312][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.14-23.00.01:313][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.14-23.00.01:313][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.14-23.00.01:313][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.14-23.00.01:315][  0]LogHAL: Display: Platform has ~ 16 GB [17145421824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.14-23.00.01:315][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.14-23.00.01:315][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-23.00.01:315][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.14-23.00.01:315][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.14-23.00.01:315][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-23.00.01:315][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.14-23.00.01:315][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-23.00.01:315][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.14-23.00.01:315][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.14-23.00.01:316][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.14-23.00.01:317][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Config/Windows/Engine.ini]
+[2020.05.14-23.00.01:317][  0]LogInit: Computer: WAR-MACHINE
+[2020.05.14-23.00.01:317][  0]LogInit: User: AndrewDinh
+[2020.05.14-23.00.01:317][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.14-23.00.01:317][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.14-23.00.01:317][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.05.14-23.00.01:317][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.14-23.00.01:317][  0]LogMemory: Process Physical Memory: 105.89 MB used, 105.90 MB peak
+[2020.05.14-23.00.01:317][  0]LogMemory: Process Virtual Memory: 100.45 MB used, 100.45 MB peak
+[2020.05.14-23.00.01:317][  0]LogMemory: Physical Memory: 5482.38 MB used,  10868.77 MB free, 16351.15 MB total
+[2020.05.14-23.00.01:317][  0]LogMemory: Virtual Memory: 5137.64 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.05.14-23.00.01:371][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.14-23.00.01:386][  0]LogInit: Using OS detected language (en-US).
+[2020.05.14-23.00.01:386][  0]LogInit: Using OS detected locale (en-US).
+[2020.05.14-23.00.01:386][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.14-23.00.01:544][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.14-23.00.01:592][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.14-23.00.01:592][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.14-23.00.01:755][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.14-23.00.01:755][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.14-23.00.01:755][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.14-23.00.01:755][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.14-23.00.01:835][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780' (Feature Level 11_0)
+[2020.05.14-23.00.01:835][  0]LogD3D11RHI:       3029/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.14-23.00.01:838][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.14-23.00.01:838][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.14-23.00.01:838][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.14-23.00.01:847][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.14-23.00.01:847][  0]LogD3D11RHI:     GPU DeviceId: 0x1004 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.14-23.00.01:847][  0]LogWindows: EnumDisplayDevices:
+[2020.05.14-23.00.01:847][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780' (P:1 D:1)
+[2020.05.14-23.00.01:847][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2020.05.14-23.00.01:848][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2020.05.14-23.00.01:849][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2020.05.14-23.00.01:849][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.14-23.00.01:849][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780
+[2020.05.14-23.00.01:849][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.05.14-23.00.01:849][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.05.14-23.00.01:849][  0]LogRHI: Texture pool is 2120 MB (70% of 3029 MB)
+[2020.05.14-23.00.01:901][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.05.14-23.00.01:901][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.14-23.00.01:921][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.05.14-23.00.02:257][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.14-23.00.02:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.14-23.00.02:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.14-23.00.02:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.14-23.00.02:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.14-23.00.02:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.14-23.00.02:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.14-23.00.02:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.14-23.00.02:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.14-23.00.02:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.14-23.00.02:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.14-23.00.02:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.14-23.00.02:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.14-23.00.02:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.14-23.00.02:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.14-23.00.02:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.14-23.00.02:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.14-23.00.02:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.14-23.00.02:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.14-23.00.02:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.14-23.00.02:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.14-23.00.02:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.14-23.00.02:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.14-23.00.02:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.14-23.00.02:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.14-23.00.02:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.14-23.00.02:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.14-23.00.02:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.14-23.00.02:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.14-23.00.02:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.14-23.00.02:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.14-23.00.02:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.14-23.00.02:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.14-23.00.02:400][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.14-23.00.02:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.14-23.00.02:412][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.14-23.00.02:414][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.14-23.00.02:429][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Intermediate/Shaders/WorkingDirectory/14192/).
+[2020.05.14-23.00.02:429][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/adinh/AppData/Local/Temp/UnrealShaderWorkingDir/FDF0D5FB4F5C31F33DB08A82FF81C389/'.
+[2020.05.14-23.00.02:429][  0]LogXGEController: Cleaning working directory: C:/Users/adinh/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.14-23.00.02:430][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.14-23.00.02:430][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.14-23.00.02:430][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.14-23.00.03:087][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.14-23.00.03:136][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/adinh/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.14-23.00.03:136][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/adinh/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.14-23.00.03:136][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/adinh/source/repos/Crossyroad/Crossyroad/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.14-23.00.03:136][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.14-23.00.03:136][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/adinh/source/repos/Crossyroad/Crossyroad/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.14-23.00.03:136][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.14-23.00.03:145][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.14-23.00.03:145][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.14-23.00.03:145][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.14-23.00.03:146][  0]LogDerivedDataCache: Using Local data cache path C:/Users/adinh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.14-23.00.03:146][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.14-23.00.03:146][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.14-23.00.03:172][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.14-23.00.03:175][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.14-23.00.03:175][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.14-23.00.03:219][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.05.14-23.00.03:513][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.14-23.00.03:653][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.14-23.00.03:653][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.14-23.00.03:653][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.14-23.00.03:653][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.14-23.00.03:653][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.14-23.00.03:663][  0]LogNetVersion: CrossyRoads 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 947931348)
+[2020.05.14-23.00.04:629][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.047206 seconds
+[2020.05.14-23.00.04:636][  0]LogUObjectArray: 46746 objects as part of root set at end of initial load.
+[2020.05.14-23.00.04:636][  0]LogUObjectAllocator: 8135816 out of 0 bytes used by permanent object pool.
+[2020.05.14-23.00.04:636][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.14-23.00.04:995][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.14-23.00.04:997][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.14-23.00.05:043][  0]SourceControl: Source control is disabled
+[2020.05.14-23.00.05:043][  0]SourceControl: Source control is disabled
+[2020.05.14-23.00.05:044][  0]SourceControl: Source control is disabled
+[2020.05.14-23.00.05:045][  0]SourceControl: Source control is disabled
+[2020.05.14-23.00.05:045][  0]SourceControl: Source control is disabled
+[2020.05.14-23.00.05:111][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.14-23.00.05:119][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.14-23.00.05:119][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.14-23.00.05:195][  0]LogOcInput: OculusInput pre-init called
+[2020.05.14-23.00.05:202][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.14-23.00.05:202][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.14-23.00.05:267][  0]LogEngine: Initializing Engine...
+[2020.05.14-23.00.05:268][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.14-23.00.05:269][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.14-23.00.05:569][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.14-23.00.05:575][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.14-23.00.05:588][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.14-23.00.05:588][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.14-23.00.05:588][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.05.14-23.00.05:588][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.05.14-23.00.05:588][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.05.14-23.00.05:588][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.14-23.00.05:588][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.14-23.00.05:588][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.14-23.00.05:588][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.14-23.00.05:588][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.14-23.00.05:647][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.14-23.00.05:647][  0]LogAudioMixer: Display: Name: Speakers (3- USB PnP Sound Device)
+[2020.05.14-23.00.05:647][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.14-23.00.05:647][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.14-23.00.05:647][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.14-23.00.05:647][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.14-23.00.05:647][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.14-23.00.05:647][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.14-23.00.05:647][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.14-23.00.05:690][  0]LogAudioMixer: Display: Using Audio Device Speakers (3- USB PnP Sound Device)
+[2020.05.14-23.00.05:694][  0]LogInit: FAudioDevice initialized.
+[2020.05.14-23.00.05:694][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.14-23.00.05:801][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/adinh/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.14-23.00.05:805][  0]LogInit: Texture streaming: Enabled
+[2020.05.14-23.00.05:814][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.14-23.00.05:814][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.14-23.00.05:816][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.14-23.00.06:042][  0]LogInit: Transaction tracking system initialized
+[2020.05.14-23.00.06:053][  0]BlueprintLog: New page: Editor Load
+[2020.05.14-23.00.06:082][  0]LocalizationService: Localization service is disabled
+[2020.05.14-23.00.06:319][  0]LogFileCache: Scanning file cache for directory 'C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Content/' took 0.00s
+[2020.05.14-23.00.06:319][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.14-23.00.06:319][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.14-23.00.07:029][  0]SourceControl: Source control is disabled
+[2020.05.14-23.00.07:029][  0]Cmd: MAP LOAD FILE="C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Content/Maps/CrossyRoads.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.14-23.00.07:030][  0]LightingResults: New page: Lighting Build
+[2020.05.14-23.00.07:031][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.00.07:031][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.00.07:031][  0]MapCheck: New page: Map Check
+[2020.05.14-23.00.07:031][  0]LightingResults: New page: Lighting Build
+[2020.05.14-23.00.07:064][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.05.14-23.00.07:384][  0]LogAIModule: Creating AISystem for world CrossyRoads
+[2020.05.14-23.00.07:437][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.14-23.00.07:464][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.05.14-23.00.07:465][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.14-23.00.07:465][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
+[2020.05.14-23.00.07:465][  0]LogFileHelpers: Loading map 'CrossyRoads' took 0.436
+[2020.05.14-23.00.07:601][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-23.00.07:608][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-23.00.07:615][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-23.00.07:622][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-23.00.07:625][  0]LogCollectionManager: Loaded 0 collections in 0.000774 seconds
+[2020.05.14-23.00.07:637][  0]LogFileCache: Scanning file cache for directory 'C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Collections/' took 0.00s
+[2020.05.14-23.00.07:637][  0]LogFileCache: Scanning file cache for directory 'C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Content/Developers/AndrewDinh/Collections/' took 0.00s
+[2020.05.14-23.00.07:637][  0]LogFileCache: Scanning file cache for directory 'C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Content/Collections/' took 0.00s
+[2020.05.14-23.00.07:637][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 3015 classes and 717 folders.
+[2020.05.14-23.00.07:639][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.14-23.00.07:676][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.14-23.00.07:679][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.05.14-23.00.07:703][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.14-23.00.07:703][  0]LogLoad: (Engine Initialization) Total time: 7.27 seconds
+[2020.05.14-23.00.07:703][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.14-23.00.07:746][  0]LogAssetRegistry: Asset discovery search completed in 4.5288 seconds
+[2020.05.14-23.00.07:751][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
+[2020.05.14-23.00.07:752][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.14-23.00.07:764][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.14-23.00.07:766][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.14-23.00.07:773][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.14-23.00.07:877][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.14-23.00.07:931][  1]LogRenderer: Reallocating scene render targets to support 816x492 Format 10 NumSamples 1 (Frame:1).
+[2020.05.14-23.00.53:044][234]LogRenderer: Reallocating scene render targets to support 1172x600 Format 10 NumSamples 1 (Frame:96).
+[2020.05.14-23.01.26:832][919]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.14-23.01.26:849][919]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Environment/BP_Floor_RIver.BP_Floor_RIver
+[2020.05.14-23.01.27:315][919]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.05.14-23.01.29:181][920]LogRenderer: Reallocating scene render targets to support 1172x660 Format 10 NumSamples 1 (Frame:1).
+[2020.05.14-23.01.30:182][  4]LogSlate: Took 0.011783 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.14-23.01.39:156][737]LogStaticMesh: Building static mesh River...
+[2020.05.14-23.01.39:259][737]LogStaticMesh: Built static mesh [0.10s] /Game/Blueprints/Environment/River.River
+[2020.05.14-23.01.47:913][369]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/River.River
+[2020.05.14-23.01.49:299][370]LogRenderer: Reallocating scene render targets to support 1172x880 Format 10 NumSamples 1 (Frame:1).
+[2020.05.14-23.01.54:096][567]LogSlate: Window 'River' being destroyed
+[2020.05.14-23.01.54:100][567]LogSlate: Window 'River' being destroyed
+[2020.05.14-23.01.54:107][567]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.01.54:108][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.01.54:210][567]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.01.54:210][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.02.52:166][929]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/River.River
+[2020.05.14-23.02.59:939][524]LogStaticMesh: Building static mesh Lilypad...
+[2020.05.14-23.02.59:970][524]LogStaticMesh: Built static mesh [0.03s] /Game/Blueprints/Environment/Lilypad.Lilypad
+[2020.05.14-23.02.59:976][524]LogStaticMesh: Building static mesh Log...
+[2020.05.14-23.02.59:992][524]LogStaticMesh: Built static mesh [0.02s] /Game/Blueprints/Environment/Log.Log
+[2020.05.14-23.03.00:019][524]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Environment/BP_River.BP_River
+[2020.05.14-23.03.00:488][524]LogSlate: Took 0.017913 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.14-23.03.08:197][121]LogSlate: Window 'BP_River' being destroyed
+[2020.05.14-23.03.08:203][121]LogSlate: Window 'BP_River' being destroyed
+[2020.05.14-23.03.08:223][121]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.03.08:223][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.03.08:311][121]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.03.08:311][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.07.03:610][112]LogSlate: Window 'Message' being destroyed
+[2020.05.14-23.07.03:614][112]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/adinh/Downloads/river.obj)
+[2020.05.14-23.07.03:707][112]LogEditorFactories: Performing atomic reimport of [C:/Users/adinh/Downloads/river.obj]
+[2020.05.14-23.07.03:729][112]LogFbx: Loading FBX Scene from C:/Users/adinh/Downloads/river.obj
+[2020.05.14-23.07.03:733][112]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.14-23.07.03:772][112]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2020.05.14-23.07.03:852][112]LogStaticMesh: Building static mesh River...
+[2020.05.14-23.07.03:852][112]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/Environment/River.River
+[2020.05.14-23.07.03:852][112]LogStaticMesh: Warning: River has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.05.14-23.07.03:852][112]LogStaticMesh: Warning: River has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.14-23.07.03:893][112]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.05.14-23.07.03:893][112]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.05.14-23.07.03:893][112]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.14-23.07.03:893][112]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.14-23.07.10:616][112]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2020.05.14-23.07.10:620][112]LogEditorFactories: -- imported successfully
+[2020.05.14-23.07.10:657][112]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.14-23.07.10:657][112]FBXImport: Warning: River has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.05.14-23.07.10:657][112]FBXImport: Warning: River has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.14-23.07.12:272][209]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/River.River
+[2020.05.14-23.07.16:652][609]LogSlate: Window 'River' being destroyed
+[2020.05.14-23.07.16:657][609]LogSlate: Window 'River' being destroyed
+[2020.05.14-23.07.16:675][609]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.07.16:675][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.07.24:246][256]Cmd: TRANSACTION UNDO
+[2020.05.14-23.07.24:246][256]LogEditorTransaction: Undo Edit Static Mesh
+[2020.05.14-23.07.28:868][628]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2020.05.14-23.07.30:222][628]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.14-23.07.31:406][731]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/Grass.Grass
+[2020.05.14-23.07.35:853][170]LogSlate: Window 'Grass' being destroyed
+[2020.05.14-23.07.35:858][170]LogSlate: Window 'Grass' being destroyed
+[2020.05.14-23.07.35:878][170]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.07.35:878][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.07.40:892][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.05.14-23.07.42:612][646]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.14-23.07.45:612][646]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Environment/River.River
+[2020.05.14-23.07.46:684][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.05.14-23.07.46:711][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.05.14-23.07.46:734][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.05.14-23.07.49:301][742]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/adinh/Downloads/river.obj)
+[2020.05.14-23.07.49:308][742]LogFbx: Loading FBX Scene from C:/Users/adinh/Downloads/river.obj
+[2020.05.14-23.07.49:308][742]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.14-23.07.54:792][742]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.14-23.07.54:947][742]LogStaticMesh: Building static mesh river...
+[2020.05.14-23.07.54:948][742]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/Environment/river.river
+[2020.05.14-23.07.54:948][742]LogStaticMesh: Warning: river has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.05.14-23.07.54:948][742]LogStaticMesh: Warning: river has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.14-23.07.54:966][742]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.14-23.07.54:966][742]FBXImport: Warning: river has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.05.14-23.07.54:966][742]FBXImport: Warning: river has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.14-23.07.57:376][  0]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-23.07.57:380][  0]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-23.07.58:258][ 79]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/river.river
+[2020.05.14-23.08.03:574][593]LogSlate: Window 'river' being destroyed
+[2020.05.14-23.08.03:578][593]LogSlate: Window 'river' being destroyed
+[2020.05.14-23.08.03:579][593]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.08.03:579][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.08.07:061][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.05.14-23.08.08:661][888]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.14-23.08.08:828][888]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Environment/river.river
+[2020.05.14-23.08.09:257][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.14-23.08.13:487][124]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/adinh/Downloads/river.obj)
+[2020.05.14-23.08.13:494][124]LogFbx: Loading FBX Scene from C:/Users/adinh/Downloads/river.obj
+[2020.05.14-23.08.13:495][124]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.14-23.08.18:180][124]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.14-23.08.31:433][761]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/Grass.Grass
+[2020.05.14-23.08.38:173][479]LogSlate: Window 'Grass' being destroyed
+[2020.05.14-23.08.38:179][479]LogSlate: Window 'Grass' being destroyed
+[2020.05.14-23.08.38:198][479]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.08.38:198][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.08.41:635][666]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/adinh/Downloads/river.obj)
+[2020.05.14-23.08.41:643][666]LogFbx: Loading FBX Scene from C:/Users/adinh/Downloads/river.obj
+[2020.05.14-23.08.41:644][666]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.14-23.08.47:046][666]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.14-23.08.47:091][666]LogStaticMesh: Building static mesh river...
+[2020.05.14-23.08.47:091][666]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/Environment/river.river
+[2020.05.14-23.08.47:092][666]LogStaticMesh: Warning: river has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.05.14-23.08.47:092][666]LogStaticMesh: Warning: river has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.14-23.08.47:101][666]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.14-23.08.47:101][666]FBXImport: Warning: river has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.05.14-23.08.47:101][666]FBXImport: Warning: river has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.14-23.08.52:371][279]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-23.08.52:375][279]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-23.08.55:541][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.05.14-23.08.56:714][520]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.14-23.08.56:885][520]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Environment/river.river
+[2020.05.14-23.08.57:315][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.05.14-23.09.01:312][839]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/Log.Log
+[2020.05.14-23.09.05:753][280]LogSlate: Window 'Log' being destroyed
+[2020.05.14-23.09.05:757][280]LogSlate: Window 'Log' being destroyed
+[2020.05.14-23.09.05:777][280]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.09.05:778][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.09.34:193][918]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/road.road
+[2020.05.14-23.09.40:411][538]LogSlate: Window 'road' being destroyed
+[2020.05.14-23.09.40:417][538]LogSlate: Window 'road' being destroyed
+[2020.05.14-23.09.40:435][538]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.09.40:435][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.10.08:418][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.05.14-23.10.08:423][785]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CrossyRoads' took 0.032
+[2020.05.14-23.10.08:431][785]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Environment/BP_Floor_RIver] ([1] browsable assets)...
+[2020.05.14-23.10.08:431][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Environment/BP_Floor_RIver]
+[2020.05.14-23.10.08:468][785]LogSavePackage: Moving 'C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/BP_Floor_RIver_Auto1BDF693C04E65626BD54ACA8659D66F5C.tmp' to 'C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Autosaves/Game/Blueprints/Environment/BP_Floor_RIver_Auto1.uasset'
+[2020.05.14-23.10.08:470][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Environment/BP_River] ([1] browsable assets)...
+[2020.05.14-23.10.08:487][785]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Environment/BP_River.BP_River]
+[2020.05.14-23.10.08:487][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Environment/BP_River]
+[2020.05.14-23.10.08:554][785]LogSavePackage: Moving 'C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/BP_River_Auto1DB5346E04EEFE2143D7051A8EC9611A0.tmp' to 'C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Autosaves/Game/Blueprints/Environment/BP_River_Auto1.uasset'
+[2020.05.14-23.10.08:555][785]LogFileHelpers: Auto-saving content packages took 0.133
+[2020.05.14-23.10.25:835][961]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/adinh/Downloads/untitled.obj)
+[2020.05.14-23.10.25:842][961]LogFbx: Loading FBX Scene from C:/Users/adinh/Downloads/untitled.obj
+[2020.05.14-23.10.25:843][961]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.14-23.10.29:365][961]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.14-23.10.29:400][961]LogStaticMesh: Building static mesh untitled...
+[2020.05.14-23.10.29:400][961]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/Environment/untitled.untitled
+[2020.05.14-23.10.29:400][961]LogStaticMesh: Warning: untitled has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.05.14-23.10.29:401][961]LogStaticMesh: Warning: untitled has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.14-23.10.29:409][961]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.14-23.10.29:409][961]FBXImport: Warning: untitled has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.05.14-23.10.29:409][961]FBXImport: Warning: untitled has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.14-23.10.31:712][221]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-23.10.31:716][221]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-23.10.35:273][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.05.14-23.10.36:558][496]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.14-23.10.36:639][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.05.14-23.11.47:966][192]LogSlate: Window 'FBX Export Options' being destroyed
+[2020.05.14-23.11.47:995][192]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2020.05.14-23.12.58:685][399]LogSlate: Window 'FBX Export Options' being destroyed
+[2020.05.14-23.12.58:695][399]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2020.05.14-23.14.37:754][139]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/adinh/Downloads/river.obj)
+[2020.05.14-23.14.37:761][139]LogFbx: Loading FBX Scene from C:/Users/adinh/Downloads/river.obj
+[2020.05.14-23.14.37:762][139]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.14-23.14.39:099][139]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.14-23.14.39:133][139]LogStaticMesh: Building static mesh river...
+[2020.05.14-23.14.39:133][139]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/Environment/river.river
+[2020.05.14-23.14.39:134][139]LogStaticMesh: Warning: river has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.05.14-23.14.39:134][139]LogStaticMesh: Warning: river has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.14-23.14.39:144][139]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.14-23.14.39:144][139]FBXImport: Warning: river has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.05.14-23.14.39:144][139]FBXImport: Warning: river has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.14-23.14.40:274][259]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-23.14.40:277][259]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-23.14.47:979][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.05.14-23.14.49:273][886]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.14-23.14.49:442][886]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Environment/river.river
+[2020.05.14-23.14.49:874][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.05.14-23.15.17:815][270]LogSlate: Window 'Message' being destroyed
+[2020.05.14-23.15.26:195][441]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/adinh/Downloads/test.OBJ)
+[2020.05.14-23.15.26:203][441]LogFbx: Loading FBX Scene from C:/Users/adinh/Downloads/test.OBJ
+[2020.05.14-23.15.26:203][441]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.14-23.15.27:945][441]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.14-23.15.27:978][441]LogMaterial: Display: Missing cached shader map for material UnrealEdObjectMat, compiling. 
+[2020.05.14-23.15.28:001][441]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.05.14-23.15.28:001][441]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.05.14-23.15.28:001][441]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.14-23.15.28:001][441]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.14-23.15.28:013][441]LogStaticMesh: Building static mesh test...
+[2020.05.14-23.15.28:014][441]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/Environment/test.test
+[2020.05.14-23.15.28:014][441]LogStaticMesh: Warning: test has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.05.14-23.15.28:014][441]LogStaticMesh: Warning: test has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.14-23.15.28:023][441]FBXImport: Warning: test has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.05.14-23.15.28:023][441]FBXImport: Warning: test has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.14-23.15.30:760][671]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-23.15.30:763][671]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-23.15.31:832][747]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/test.test
+[2020.05.14-23.15.34:376][980]LogSlate: Window 'test' being destroyed
+[2020.05.14-23.15.34:382][980]LogSlate: Window 'test' being destroyed
+[2020.05.14-23.15.34:383][980]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.15.34:383][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.15.37:119][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.05.14-23.15.38:413][200]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.14-23.15.38:487][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.05.14-23.16.06:070][635]LogActorFactory: Actor Factory created Grass
+[2020.05.14-23.16.17:564][146]LogActorFactory: Actor Factory created Grass
+[2020.05.14-23.16.20:630][317]LogActorFactory: Actor Factory created Grass
+[2020.05.14-23.19.04:381][922]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/adinh/Downloads/MagicaVoxel-0.99.4-alpha-win32/export/tssst.obj)
+[2020.05.14-23.19.04:388][922]LogFbx: Loading FBX Scene from C:/Users/adinh/Downloads/MagicaVoxel-0.99.4-alpha-win32/export/tssst.obj
+[2020.05.14-23.19.04:389][922]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.14-23.19.05:780][922]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.14-23.19.05:838][922]LogStaticMesh: Building static mesh tssst...
+[2020.05.14-23.19.05:838][922]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/Environment/tssst.tssst
+[2020.05.14-23.19.05:839][922]LogStaticMesh: Warning: tssst has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.05.14-23.19.05:839][922]LogStaticMesh: Warning: tssst has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.14-23.19.05:848][922]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.14-23.19.05:848][922]FBXImport: Warning: tssst has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.05.14-23.19.05:848][922]FBXImport: Warning: tssst has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.14-23.19.08:553][215]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-23.19.08:556][215]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-23.19.11:178][412]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/tssst.tssst
+[2020.05.14-23.19.18:483][173]LogSlate: Window 'tssst' being destroyed
+[2020.05.14-23.19.18:488][173]LogSlate: Window 'tssst' being destroyed
+[2020.05.14-23.19.18:489][173]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.19.18:489][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.20.25:838][172]LogSlate: Window 'FBX Export Options' being destroyed
+[2020.05.14-23.20.25:866][172]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2020.05.14-23.22.37:989][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.05.14-23.22.37:997][179]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CrossyRoads' took 0.037
+[2020.05.14-23.22.37:997][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Environment/UnrealEdObjectMat] ([1] browsable assets)...
+[2020.05.14-23.22.38:021][179]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Environment/UnrealEdObjectMat.UnrealEdObjectMat]
+[2020.05.14-23.22.38:021][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Environment/UnrealEdObjectMat]
+[2020.05.14-23.22.38:035][179]LogSavePackage: Moving 'C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/UnrealEdObjectMat_Auto2344EFB4B4E87722825DCFEB024132F28.tmp' to 'C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Autosaves/Game/Blueprints/Environment/UnrealEdObjectMat_Auto2.uasset'
+[2020.05.14-23.22.38:036][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Environment/tssst] ([1] browsable assets)...
+[2020.05.14-23.22.38:060][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Blueprints/Environment/tssst.tssst]
+[2020.05.14-23.22.38:060][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Environment/tssst]
+[2020.05.14-23.22.38:075][179]LogSavePackage: Moving 'C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/tssst_Auto2AFE02ADA49709CFA1E409C8F73027C38.tmp' to 'C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/Autosaves/Game/Blueprints/Environment/tssst_Auto2.uasset'
+[2020.05.14-23.22.38:076][179]LogFileHelpers: Auto-saving content packages took 0.079
+[2020.05.14-23.23.49:566][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.05.14-23.23.50:942][236]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.14-23.23.51:023][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.05.14-23.24.03:782][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/adinh/Downloads/MagicaVoxel-0.99.4-alpha-win32/export/river.png)
+[2020.05.14-23.24.03:798][469]LogTexture: Display: Building textures: river (BGRA8, 256X1)
+[2020.05.14-23.24.16:018][165]LogSlate: Window 'Message' being destroyed
+[2020.05.14-23.24.16:047][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.05.14-23.24.16:262][165]LogUObjectGlobals: Warning: Could not delete
+[2020.05.14-23.24.17:740][165]LogSlate: Window 'Message' being destroyed
+[2020.05.14-23.24.17:743][165]LogAssetTools: Warning: Failed to delete '/Game/Blueprints/Environment/river'. The asset is referenced by other content.
+[2020.05.14-23.24.29:977][846]LogSlate: Window 'Message' being destroyed
+[2020.05.14-23.24.30:008][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.05.14-23.24.30:225][846]LogUObjectGlobals: Warning: Could not delete
+[2020.05.14-23.24.31:794][846]LogSlate: Window 'Message' being destroyed
+[2020.05.14-23.24.31:798][846]LogAssetTools: Warning: Failed to delete '/Game/Blueprints/Environment/river'. The asset is referenced by other content.
+[2020.05.14-23.24.34:299][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.05.14-23.24.35:613][ 61]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.14-23.24.36:107][ 61]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Environment/BP_River.BP_River
+[2020.05.14-23.24.36:323][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.05.14-23.24.36:572][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.05.14-23.24.36:597][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.05.14-23.24.36:621][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.14-23.24.38:794][210]LogMaterial: Display: Missing cached shader map for material defaultMat, compiling. 
+[2020.05.14-23.24.38:830][210]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.05.14-23.24.38:830][210]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.05.14-23.24.38:830][210]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.14-23.24.38:830][210]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.14-23.24.38:830][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.05.14-23.24.40:769][210]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.14-23.24.40:866][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.05.14-23.24.40:896][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.05.14-23.24.40:918][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.05.14-23.24.46:980][405]LogSlate: Window 'Message' being destroyed
+[2020.05.14-23.24.47:005][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.05.14-23.24.47:252][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.05.14-23.24.47:253][405]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/adinh/Downloads/MagicaVoxel-0.99.4-alpha-win32/export/river.obj)
+[2020.05.14-23.24.47:260][405]LogFbx: Loading FBX Scene from C:/Users/adinh/Downloads/MagicaVoxel-0.99.4-alpha-win32/export/river.obj
+[2020.05.14-23.24.47:260][405]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.14-23.24.48:527][405]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.14-23.24.48:571][405]LogStaticMesh: Building static mesh river...
+[2020.05.14-23.24.48:571][405]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/Environment/river.river
+[2020.05.14-23.24.48:571][405]LogStaticMesh: Warning: river has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.05.14-23.24.48:572][405]LogStaticMesh: Warning: river has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.14-23.24.48:581][405]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.14-23.24.48:581][405]FBXImport: Warning: river has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.05.14-23.24.48:581][405]FBXImport: Warning: river has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.14-23.24.50:890][651]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-23.24.50:894][651]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-23.24.51:844][728]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/river.river
+[2020.05.14-23.25.02:245][819]LogSlate: Window 'river' being destroyed
+[2020.05.14-23.25.02:250][819]LogSlate: Window 'river' being destroyed
+[2020.05.14-23.25.02:252][819]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.25.02:252][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.25.14:163][586]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/river.river
+[2020.05.14-23.25.20:964][181]LogRenderer: Reallocating scene render targets to support 1432x960 Format 10 NumSamples 1 (Frame:436).
+[2020.05.14-23.25.21:860][264]LogSlate: Window 'river' being destroyed
+[2020.05.14-23.25.21:866][264]LogSlate: Window 'river' being destroyed
+[2020.05.14-23.25.21:884][264]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.25.21:884][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.25.23:031][360]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/river.river
+[2020.05.14-23.25.24:607][489]LogSlate: Window 'river' being destroyed
+[2020.05.14-23.25.24:612][489]LogSlate: Window 'river' being destroyed
+[2020.05.14-23.25.24:614][489]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.25.24:614][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.25.25:576][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Environment/river" FILE="C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Content/Blueprints/Environment/river.uasset" SILENT=true
+[2020.05.14-23.25.25:591][567]LogSavePackage: Moving 'C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Saved/river0F7B0F574C85C301B9594CAE2B87BDB8.tmp' to 'C:/Users/adinh/source/repos/Crossyroad/Crossyroad/Content/Blueprints/Environment/river.uasset'
+[2020.05.14-23.25.25:604][567]AssetCheck: New page: Asset Save: river
+[2020.05.14-23.25.25:604][567]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Environment/river.river
+[2020.05.14-23.25.29:044][844]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Blueprints/Environment/palette.palette
+[2020.05.14-23.25.29:062][844]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2020.05.14-23.25.29:272][844]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2020.05.14-23.25.29:291][844]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.05.14-23.25.29:291][844]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.05.14-23.25.29:291][844]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.14-23.25.29:291][844]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.05.14-23.25.29:296][844]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2020.05.14-23.25.29:316][844]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.14-23.25.29:836][856]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.05.14-23.25.30:073][869]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.05.14-23.25.30:091][870]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.05.14-23.25.30:110][871]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.05.14-23.25.30:542][892]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.05.14-23.25.30:543][892]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.05.14-23.25.30:770][905]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.05.14-23.25.30:810][907]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.05.14-23.25.30:825][908]LogSlate: Window 'palette' being destroyed
+[2020.05.14-23.25.30:834][908]LogSlate: Window 'palette' being destroyed
+[2020.05.14-23.25.30:899][908]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.25.30:899][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.25.30:954][909]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.05.14-23.25.32:164][996]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/river.river
+[2020.05.14-23.25.38:306][555]LogSlate: Window 'river' being destroyed
+[2020.05.14-23.25.38:310][555]LogSlate: Window 'river' being destroyed
+[2020.05.14-23.25.38:328][555]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.25.38:328][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.25.39:469][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.05.14-23.25.40:782][641]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.14-23.25.40:881][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.05.14-23.25.40:912][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.05.14-23.25.40:935][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.05.14-23.25.44:296][920]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Environment/BP_Floor_RIver.BP_Floor_RIver
+[2020.05.14-23.25.44:636][920]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2020.05.14-23.25.44:682][920]LogSlate: Warning: The tab "CompilerResults" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.05.14-23.25.46:425][114]LogSlate: Window 'CompilerResults' being destroyed
+[2020.05.14-23.25.46:428][114]LogSlate: Window 'CompilerResults' being destroyed
+[2020.05.14-23.25.47:483][235]LogSlate: Window 'BP_Floor_RIver' being destroyed
+[2020.05.14-23.25.47:489][235]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-23.25.47:489][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-23.25.47:548][235]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Environment/BP_Floor_RIver.BP_Floor_RIver
+[2020.05.14-23.25.49:831][337]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Environment/BP_Floor_Road.BP_Floor_Road
+[2020.05.14-23.26.00:070][ 33]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Environment/BP_Floor_Base.BP_Floor_Base
+[2020.05.14-23.27.34:503][466]LogEditorTransaction: Undo Set Location
+[2020.05.14-23.27.34:528][466]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.14-23.27.35:970][466]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.443 s
+[2020.05.14-23.27.35:970][466]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.14-23.27.35:970][466]LogOutputDevice: Error: 
+[2020.05.14-23.27.35:970][466]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2020.05.14-23.27.35:970][466]LogOutputDevice: Error: 
+[2020.05.14-23.27.35:970][466]LogOutputDevice: Error: Stack: 
+[2020.05.14-23.27.35:970][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d221c918 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.14-23.27.35:970][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d16e0cf0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.14-23.27.35:970][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d1691e1a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.14-23.27.35:970][466]LogOutputDevice: Error: [Callstack] 0x00007ff9c0118a16 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.05.14-23.27.35:970][466]LogOutputDevice: Error: [Callstack] 0x00007ff9c01199b5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9c00d3d01 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9de69889a UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9de708d51 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9de6c83d9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9de64e957 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9de730050 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9de52f418 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9de52fcfa UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9de4d8d05 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d0775644 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d0537b7a UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d0511699 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d0868613 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d084c378 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d07fdc24 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d085460d UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d0854dae UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d04f2de3 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d051fca6 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d053d20d UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d16922ad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d16b73b6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d16a2d4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d173ea93 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d16dec6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d05125c8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9de4d9ada UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9de5103de UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d1eb568e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9d1ea3221 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9de4a1041 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9de51224d UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9de507b0f UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9f6d84918 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9f6d7242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9f6d87195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9f6d6ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ffa47745c0d USER32.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ffa47745602 USER32.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff9f6d88699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff770966db0 UE4Editor.exe!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff77097c3ec UE4Editor.exe!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff77097c4ca UE4Editor.exe!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff77098ceae UE4Editor.exe!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ff77098fcbe UE4Editor.exe!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ffa46667bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: [Callstack] 0x00007ffa4860ce51 ntdll.dll!UnknownFunction []
+[2020.05.14-23.27.35:971][466]LogOutputDevice: Error: 
+[2020.05.14-23.27.35:974][466]LogStats:                SubmitErrorReport -  0.000 s
