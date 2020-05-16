@@ -605,3 +605,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.15-21.07.21:188][  0]LogSlate: Took 0.016071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.05.15-21.07.22:463][ 17]LogAssetRegistry: Asset discovery search completed in 19.6828 seconds
 [2020.05.15-21.07.22:479][ 17]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000018 seconds (updated 0 objects)
+[2020.05.15-21.36.00:996][733]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave TrainSound...
+[2020.05.15-21.36.00:996][733]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Blueprints/Audio/TrainSound.TrainSound will be modified from 40 to 40.
+[2020.05.15-21.36.01:063][733]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 135168 while cooking SoundWave /Game/Blueprints/Audio/TrainSound.TrainSound.
+[2020.05.15-21.36.16:378][109]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d47c982a-cbdf-4045-86c0-17fd106d73ed}.
+[2020.05.15-21.36.16:491][109]LogTemp: Resetting audio stream to device id 
